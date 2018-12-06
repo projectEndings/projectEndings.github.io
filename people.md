@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: People
 subtitle: Building Sustainable Digital Humanities Projects
 ---
 
