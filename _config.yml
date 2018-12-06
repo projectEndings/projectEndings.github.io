@@ -23,16 +23,20 @@ description: where dh projects begin
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
-
+  About: "aboutme"
+  Projects:
+    - Map of Early Modern London: "https://pages.github.com/"
+    - Le Mariage sous l’Ancien Régime (Marriage in Early Modern France): "https://pages.github.com/"
+    - Nxaʔamxčín Database and Dictionary: "https://pages.github.com/"
+    - Robert Graves Diary: "https://pages.github.com/"
+  People: "https://pages.github.com/"
+  Conference Papers: "https://pages.github.com/"
+  Journal Articles: "https://pages.github.com/"
+  Resources: "https://pages.github.com/"
+  Contact Us: "https://pages.github.com/"  
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/endingsProjectLogo2.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -74,25 +78,25 @@ social-network-links:
   rss: true
   email: "someone@example.com"
 #  facebook: daattali
-  github: daattali
-# twitter: daattali
+  github: projectEndings
+  twitter: EndingsProject
 #  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
+#  google-plus: +name
+#  linkedin: name
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "3943160/name"
+#  snapchat: name
+#  instagram: name
+#  youtube: user/name
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
+#  steam: name
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
+  twitter: true
   facebook: false
   google: false
   linkedin: false
