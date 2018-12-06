@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: Sustaining Digital Scholarship
+subtitle: Building Sustainable Digital Humanities Projects
 ---
 
 Despite the thousands of digital projects launched during the past 20 years, experts warn of a new “digital dark age” as our ability to produce digital information continues to outpace our capacity to preserve and access that knowledge for the long haul.
