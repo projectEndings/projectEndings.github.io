@@ -6,7 +6,7 @@ gh-repo: projectendings.github.io
 gh-badge: [star, fork, follow]
 tags: [front_matter]
 image: /mg/
-bigimage: /img/
+bigimg: /img/
 ---
 
 Welcome to the Endings Project, where DH projects begin. 
