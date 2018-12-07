@@ -12,11 +12,11 @@ While a growing body of research on the closure and preservation of digital proj
 
 The University of Victoria’s extensive experience with a broad variety of SSHRC and CFI-funded DH projects over the past 15 years gives our team a unique perspective to consider these questions. Each of our funded DH projects has well-developed scholarly content useful to the scholarly community for the foreseeable future, and each poses different, representative problems for sustained digital conservation and usability.
 
-Our multidisciplinary team, including [research faculty](https://onlineacademiccommunity.uvic.ca/endingsproject/researchers/) from several disciplines, [programmers](https://onlineacademiccommunity.uvic.ca/endingsproject/programmers/), and [digital librarians](https://onlineacademiccommunity.uvic.ca/endingsproject/librarians/), has collective theoretical and practical experience in geohumanities, multimedia markup, endangered language documentation, textual editing, digital publishing, and text encoding.
+Our multidisciplinary team, including [research faculty](https://o) from several disciplines, [programmers](https://), and [digital librarians](https://), has collective theoretical and practical experience in geohumanities, multimedia markup, endangered language documentation, textual editing, digital publishing, and text encoding.
 
 Using case studies that address the following research questions, we plan to develop practical strategies for concluding and preserving scholarly digital projects, and for maintaining long-term usability across a representative range of disciplines and DH methodologies.
 
-To learn more about our individual projects, visit our [projects](https://onlineacademiccommunity.uvic.ca/endingsproject/about/) page.
+To learn more about our individual projects, visit our [projects](https://) page.
 
 *   **How do and how should DH projects conclude**? The dynamic nature of digital data lends itself to new and promising possibilities, and the protean digital environment makes publication a moving target. Despite these temptations, while our research and scholarship go on, projects—even digital ones—need to end. We plan to investigate strategies and landmarks to bring DH projects to closure.
 *   **How should we preserve projects to retain their dynamic features?** By extrapolating from existing theoretical models and experimenting with our own projects, we are developing programming strategies to maintain site usability, readability, and tools.
