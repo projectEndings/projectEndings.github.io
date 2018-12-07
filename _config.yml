@@ -1,6 +1,3 @@
-#huculak config
-highlighter: rouge
-
 # --- General options --- #
 
 # url is the full website URL
@@ -20,7 +17,7 @@ baseurl: "https://projectendings.github.io"
 title: The Endings Project
 
 # Short description of your site
-description: where dh projects begin
+description: where dh work begins
 
 # --- Navigation bar options --- #
 
@@ -41,7 +38,7 @@ title-img: "/img/endingsProjectLogo4.png"
 # then specify the following parameter
 # title-img: /path/to/image
 
-# --- Background colour/image options --4 #
+# --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
