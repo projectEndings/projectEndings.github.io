@@ -2,6 +2,7 @@
 layout: page
 title: About Us
 subtitle: Building Sustainable Digital Humanities Projects
+permalink: /about.html
 ---
 
 Despite the thousands of digital projects launched during the past 20 years, [experts warn of a new “digital dark age”](http://www.bbc.com/news/science-environment-31450389) as our ability to produce digital information continues to outpace our capacity to preserve and access that knowledge for the long haul.
