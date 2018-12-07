@@ -26,13 +26,13 @@ description: where dh projects begin
 
 # List of links in the navigation bar
 navbar-links:
-  About Us: "about.html"
-  Projects: "projects.html"
+  About Us: "about"
+  Projects: "projects"
   People: "people.html"
-  Conference Papers: "papers.html"
-  Journal Articles: "articles.html"
-  Resources: "resources.html"
-  Contact Us: "contact.html"  
+  Conference Papers: "papers"
+  Journal Articles: "articles"
+  Resources: "resources"
+  Contact Us: "contact"  
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 title-img: "/img/endingsProjectLogo4.png"
