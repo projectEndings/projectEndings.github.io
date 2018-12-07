@@ -1,3 +1,6 @@
+#huculak config
+highlighter: rouge
+
 # --- General options --- #
 
 # url is the full website URL
