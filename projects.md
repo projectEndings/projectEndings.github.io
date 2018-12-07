@@ -5,7 +5,7 @@ subtitle: Building Sustainable Digital Humanities Projects
 ---
 ## The Endings Project ##
 
-[Robert Graves Diary](https://graves.uvic.ca), [Nxa’amxcín Database and Dictionary](https://tomcat.devel.hcmc.uvic.ca:8080/moses/site/), (https://mariage.uvic.ca/)[Le Mariage sous l’Ancien Régime](https://mariage.uvic.ca/), and [Map of Early Modern London](https://mapoflondon.uvic.ca) 
+[Robert Graves Diary](https://graves.uvic.ca), [Nxa’amxcín Database and Dictionary](https://tomcat.devel.hcmc.uvic.ca:8080/moses/site/), [Le Mariage sous l’Ancien Régime](https://mariage.uvic.ca/), and [Map of Early Modern London](https://mapoflondon.uvic.ca) 
 
 Whereas the codex has proven its reliability over centuries, the digital documents in increasingly wide use today are evanescent and fragile. The digital humanities are facing an urgent problem: experts warn of a new “digital dark age” as our ability to produce digital content continues to outpace our capacity to preserve and access on-line resources for the long term. Awareness of the challenge of preserving and future-proofing these digital projects—many based on boutique technologies and customized code—is growing across the DH landscape, but to date more literature has been devoted to identifying the problem than to solving it.
 
