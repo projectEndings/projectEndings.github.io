@@ -75,20 +75,20 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-#  facebook: daattali
+  email: "mholmes@uvic.ca"
+#  facebook: endings
   github: projectEndings
   twitter: EndingsProject
 #  reddit: yourname
 #  google-plus: +name
 #  linkedin: name
 #  xing: yourname
-#  stackoverflow: "3943160/name"
+#  stackoverflow: "00000000/name"
 #  snapchat: name
 #  instagram: name
 #  youtube: user/name
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: +15555555
 #  steam: name
 #  twitch: yourname
 #  yelp: yourname
@@ -96,7 +96,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   google: false
   linkedin: false
 
