@@ -102,7 +102,6 @@ Huculak's [ORCID](https://orcid.org/0000-0002-2717-1112).
 ## Programmers
 
 ### Martin Holmes, Programmer Consultant
-
 **Martin Holmes** has a B.A. (Hons) in English and an MPhil for research in Phonology, as well as the RSA/Cambridge Dip. TEFLA. He has taught English as a second/foreign language in Britain, Japan, Indonesia, Greece, Saudi Arabia and Canada. In the 1990s he moved from teaching into programming with an emphasis on creating online language teaching materials and has recently been focusing on both electronic and traditional print publishing using XML-based technologies. He is a founder and partner (with Stewart Arneil) in Half-Baked Software Inc., a company created with the university to commercially exploit software created by Stewart and Martin in the HCMC. He has also published several pieces of educational software independently. He was an elected member of the Technical Council of the Text Encoding Initiative 2010-2015, and Managing Editor of the Journal of the Text Encoding Initiative for three years. He is Technical Editor of the Scandinavian Canadian Studies Journal. His recent projects include the [Map of Early Modern London](https://mapoflondon.uvic.ca), [CodeSharing](https://github.com/martindholmes/CodeSharing), the [Colonial Despatches](https://bcgenesis.uvic.ca) collection, the [Robert Graves Diary](https://graves.uvic.ca) project, and [Le mariage sous L’Ancien Régime](https://mariage.uvic.ca).
 
 [Martin Holmes's CV](https://www.mholmes.com/cv/cv_web.xml)
