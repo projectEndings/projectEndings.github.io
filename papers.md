@@ -18,6 +18,8 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 * Davis, Corey. 2017. "[A Website on the Shelf: Libraries and the Challenges of Digital Preservation](https://github.com/projectEndings/Endings/raw/master/presentations/SHARP_2017/Davis-SHARP2017-Presentation.pdf)." SHARP Conference 2017: Technologies of the Book, Victoria, BC, Canada. 10 June 2017.
 
+* Goddard, Lisa. 2018. "[The Endings Project @ UVic: Concluding, Archiving, and Preserving Digital Projects for Long-Term Usability](https://github.com/projectEndings/Endings/blob/master/presentations/Goddard_RiskNorth_Endings_final.pptx?raw=true)." @Risk North 2: Digital Collections, Montreal, Canada. 9 November 2018.
+
 * Goddard, Lisa, and Christine Walde. 2017. "[Negotiating Sustainability: The Grant Services 'Menu' at UVic Libraries](https://dh2017.adho.org/abstracts/231/231.pdf)." Digital Humanities 2017 Conference, Montreal, Canada. August 2017.
 
 * Holmes, Martin. 2017. "[Selecting Technologies for Long-Term Survival](https://github.com/projectEndings/Endings/raw/master/presentations/SHARP_2017/mdh_sharp_2017.pdf)." SHARP Conference 2017: Technologies of the Book, Victoria, BC, Canada. 10 June 2017.
