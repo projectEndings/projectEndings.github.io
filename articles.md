@@ -4,6 +4,11 @@ title: Journal Articles
 subtitle: Building Sustainable Digital Humanities Projects
 ---
 
+<!-- Carlin, Claire et al. "Endings: Concluding, Archiving, and Preserving
+Digital Projects for Long-Term Usability.² KULA: Knowledge Creation,
+Dissemination, and Preservation Studies,  2(1), p.19. DOI:
+http://doi.org/10.5334/kula.35 -->
+
 ## [2016: Fronts of Modernity](https://onlineacademiccommunity.uvic.ca/endingsproject/2016/01/01/2016-fronts-of-modernity/)
 
 Posted by [Jen](https://onlineacademiccommunity.uvic.ca/endingsproject/author/jpolack/ "Posts by Jen") on 1:32 pm in [Paper on Robert Graves Diary](https://onlineacademiccommunity.uvic.ca/endingsproject/category/robert-graves-diary/), [Published Papers (Graves)](https://onlineacademiccommunity.uvic.ca/endingsproject/category/robert-graves-diary/published-papers-robert-graves-diary/) | [0 comments](https://onlineacademiccommunity.uvic.ca/endingsproject/2016/01/01/2016-fronts-of-modernity/#respond)

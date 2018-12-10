@@ -6,11 +6,15 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 * Arneil, Stewart, and Martin Holmes. 2017. "Archiving form and function: preserving a 2003 digital project." DPASSH Conference 2017: Digital Preservation for Social Sciences and Humanities, Brighton, UK. 14 September 2017. [Video](https://vimeo.com/239453105).
 
+<!-- Coming in April from Claire: "Humanities in the Digital Age: A Quiet Revolution," to be delivered in the Master Minds series in April, will have a lot of Endings content. -->
+
+* Carlin, Claire. 2017. "[Mistakes Were Made: A TEI Project after Sixteen Years](https://hcmc.uvic.ca/tei2017/abstracts/t_118_carlin_mistakesweremade.html)." Conference of the Text Encoding Initiative, Victoria, BC, Canada. 14 November 2017.
+
 * Comeau, Emily. 2018. "[Endings: Concluding, Archiving and Preserving Digital Projects for Long-Term Usability](https://github.com/projectEndings/Endings/blob/master/presentations/DHCS_2018/DHCS-2018.pdf)." The Chicago Colloquium on Digital Humanities and Computer Science. 10 November 2018.
 
 * Czaykowska-Higgins, Ewa, and Sarah M. Kell  "[Why do print at all? Constructing a 'dictionary' for the future](https://github.com/projectEndings/Endings/blob/master/presentations/SHARP_2017/CzaykowskaKellSHARP2017AbstractFinal.pdf)". SHARP Conference 2017: Technologies of the Book, Victoria, BC, Canada. 10 June 2017.
 
-* Czaykowska-Higgins, Ewa and Sarah M. Kell. 2017. "[Using TEI for Language Documentation Projects: The Nxaʔamxčín Database and Dictionary](https://hcmc.uvic.ca/tei2017/abstracts/t_117_czaykowska_kell_languagedocumentation.html)." TEI 2017, University of Victoria, Victoria, BC. 11 November 2017.
+* Czaykowska-Higgins, Ewa and Sarah M. Kell. 2017. "[Using TEI for Language Documentation Projects: The Nxaʔamxčín Database and Dictionary](https://hcmc.uvic.ca/tei2017/abstracts/t_117_czaykowska_kell_languagedocumentation.html)." Conference of the Text Encoding Initiative, University of Victoria, Victoria, BC. 11 November 2017.
 
 * Davis, Corey. 2017. "[A Website on the Shelf: Libraries and the Challenges of Digital Preservation](https://github.com/projectEndings/Endings/raw/master/presentations/SHARP_2017/Davis-SHARP2017-Presentation.pdf)." SHARP Conference 2017: Technologies of the Book, Victoria, BC, Canada. 10 June 2017.
 
