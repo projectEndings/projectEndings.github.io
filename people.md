@@ -87,7 +87,7 @@ Lisa is the Associate University Librarian for Digital Scholarship and Strategy 
 
 Martin Holmes has a B.A. (Hons) in English and an MPhil for research in Phonology, as well as the RSA/Cambridge Dip. TEFLA. He has taught English as a second/foreign language in Britain, Japan, Indonesia, Greece, Saudi Arabia and Canada. About sixteen years ago he moved from teaching into programming with an emphasis on creating online language teaching materials and has recently been focusing on both electronic and traditional print publishing using XML-based technologies. He is a founder and partner (with Stewart Arneil) in Half-Baked Software Inc., a company created with the university to commercially exploit software created by Stewart and Martin in the HCMC. He has also published several pieces of educational software independently. He was an elected member of the Technical Council of the Text Encoding Initiative 2010-2015, and Managing Editor of the Journal of the Text Encoding Initiative for three years. He is Technical Editor of the Scandinavian Canadian Studies Journal. His recent projects include the Map of Early Modern London, CodeSharing, the Colonial Despatches collection, the Robert Graves Diary project, and Le mariage sous L’Ancien Régime.
 
-[Martin Holme’s CV](http://www.mholmes.com/cv/cv_web.xml)
+[Martin Holmes's CV](https://www.mholmes.com/cv/cv_web.xml)
 
 
 ##Stewart Arneil, Programmer Consultant##
