@@ -68,19 +68,21 @@ A summer internship as a student reporter with the UK’s _Computer Weekly_ news
 
 ## John Durno, Head of Library Systems
 
-For the past eleven years, **John Durno** has been Head of Library Systems at the University of Victoria, where he manages the exceptional team responsible for building and maintaining the Libraries’ IT environment. John’s recent publications include Ddgital archaeology and forensics, which includes working with floppy discs from the 1980s and Building capacities in digital archaeology. John received a BFA, MFA, and MLIS all from the University of British Columbia. His research interests including digital forensics, digital archaeology, and any other excuse to muck about with old hardware and software.
+For the past eleven years, **John Durno** has been Head of Library Systems at the University of Victoria, where he manages the exceptional team responsible for building and maintaining the Libraries’ IT environment. John’s recent publications include Ddgital archaeology and forensics, which includes working with floppy discs from the 1980s and Building capacities in digital archaeology. John received a BFA, MFA, and MLIS all from the University of British Columbia. His research interests including digital forensics, digital archaeology, and any other excuse to muck about with old hardware and software. 
 
-[ORCID](https://orcid.org/0000-0003-0419-9742)
+Durno's [ORCID](https://orcid.org/0000-0003-0419-9742)
 
 
 ## Lisa Goddard, Associate University Librarian for Digital Scholarship and Strategy
 
-**Lisa Goddard** is the Associate University Librarian for Digital Scholarship and Strategy at University of Victoria Libraries. She holds degrees from Queen’s, McGill, and Memorial University, and is currently completing an MA in Humanities Computing at the University of Alberta. Lisa’s research interests include open access publishing, semantic web technologies, digital publishing & preservation, and digital humanities.
+**Lisa Goddard** is the Associate University Librarian for Digital Scholarship and Strategy at University of Victoria Libraries. She holds degrees from Queen’s, McGill, and Memorial University, and is currently completing an MA in Humanities Computing at the University of Alberta. Lisa’s research interests include open access publishing, semantic web technologies, digital publishing & preservation, and digital humanities. 
 
-[ORCID](https://orcid.org/0000-0002-4970-053X)
+Goddard's [ORCID](https://orcid.org/0000-0002-4970-053X)
 
 ## J. Matthew Huculak, Digital Scholarship Librarian
-**Dr. J. Matthew Huculak** is Digital Scholarship Librarian at the University of Victoria. He is an Advisory Board Member of Project Muse at Johns Hopkins University Press, the Director of the [Modernist Versions Project](mvp.uvic.ca) and co-founder of [Open Modernisms](openmods.uvic.ca), an open-source web-based resource to share open-access course packs. He co-teaches the PreDigital Book course at the [Digital Humanities Summer Insitute(dhsi.org) and is former Project Manger at the [Modernist Journals Project](modjourn.org). With degrees in both library science and literature he publishes and teaches at the intersections of archives, libraries, book history, modernism, and periodical studies. [ORCID](https://orcid.org/0000-0002-2717-1112). 
+**Dr. J. Matthew Huculak** is Digital Scholarship Librarian at the University of Victoria. He is an Advisory Board Member of Project Muse at Johns Hopkins University Press, the Director of the [Modernist Versions Project](mvp.uvic.ca) and co-founder of [Open Modernisms](openmods.uvic.ca), an open-source web-based resource to share open-access course packs. He co-teaches the PreDigital Book course at the [Digital Humanities Summer Insitute(dhsi.org) and is former Project Manger at the [Modernist Journals Project](modjourn.org). With degrees in both library science and literature he publishes and teaches at the intersections of archives, libraries, book history, modernism, and periodical studies. 
+
+Huculak's [ORCID](https://orcid.org/0000-0002-2717-1112). 
 
 # Programmers
 
