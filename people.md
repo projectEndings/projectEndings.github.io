@@ -26,7 +26,7 @@ She has edited Pierre Corneille’s _La Veuve_ and _La Suivante_ for the _Théâ
 **Representations of women in 17th-century France**
 Ongoing work on _préciosité_, women as writers and readers.
 
-[Claire Carlin’s CV](./files/cv_carlin.pdf)
+[Claire Carlin’s CV](/files/cv_carlin.pdf)
 
 <iframe width="838" height="471" src="https://www.youtube.com/embed/uaCVXdXgNy4?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
 
@@ -47,7 +47,7 @@ And as a linguist, she understands that language is at the core of who we are an
 
 **Janelle Jenstad** (PhD, Queen’s University) associate professor in the department of English at the University of Victoria, is the general editor and coordinator of **[The Map of Early Modern London](https://mapoflondon.uvic.ca/)**. She is also the assistant coordinating editor of Internet Shakespeare Editions. She has taught at Queen’s University, the Summer Academy at the Stratford Festival, the University of Windsor, and the University of Victoria. Her articles have appeared in the _Journal of Medieval and Early Modern Studies, Early Modern Literary Studies, Elizabethan Theatre, Shakespeare Bulletin: A Journal of Performance Criticism, and The Silver Society Journal_. Her book chapters have appeared (or will appear) in _Performing Maternity in Early Modern England_ (Ashgate, 2007), _Approaches to Teaching Othello_ (Modern Language Association, 2005), _Shakespeare, Language and the Stage, The Fifth Wall: Approaches to Shakespeare from Criticism, Performance and Theatre Studies_ (Arden/Thomson Learning, 2005), _Institutional Culture in Early Modern Society_ (Brill, 2004), _New Directions in the Geohumanities: Art, Text, and History at the Edge of Place_ (Routledge, 2011), and _Teaching Early Modern English Literature from the Archives_ (MLA, forthcoming). She is currently working on an edition of _The Merchant of Venice_ for ISE and Broadview P. She lectures regularly on London studies, digital humanities, and on Shakespeare in performance.
 
-[Janelle Jenstad’s CV](./files/cv_jenstad.pdf)
+[Janelle Jenstad’s CV](/files/cv_jenstad.pdf)
 
 <iframe width="838" height="471" src="https://www.youtube.com/embed/klkLh76fOc8?feature=oembed" frameborder="0" allowfullscreen=""></iframe>
 
@@ -55,7 +55,7 @@ And as a linguist, she understands that language is at the core of who we are an
 
 Following the birth of the first of her four children, **Elizabeth Grove-White** (PhD Trinity College Dublin) worked as a researcher, writer, editor, and producer at the CBC where she won Canada’s Peabody Award for her documentary, “The Longest Journey.” She has taught in Toronto’s Ryerson University as well as working for a variety of print and broadcast media in Canada. Her travel pieces have appeared in a range of print and digital formats and she remains a frequent contributor to the _Globe and Mail’s_ Books section.
 
-A summer internship as a student reporter with the UK’s _Computer Weekly_ newspaper, started Elizabeth’s career-long interest in digital media. She has been teaching and researching digital media since 1991 and received SSHRC funding for her digital edition of the **[Robert Graves Diary](http://graves.uvic.ca/graves/site/index.xml)** in UVic Library’s Special Collections. (http://graves.uvic.ca/graves/site/index.xml)
+A summer internship as a student reporter with the UK’s _Computer Weekly_ newspaper, started Elizabeth’s career-long interest in digital media. She has been teaching and researching digital media since 1991 and received SSHRC funding for her digital edition of the **[Robert Graves Diary](https://graves.uvic.ca/)** in UVic Library’s Special Collections.
 
 
 # Librarians
@@ -64,7 +64,7 @@ A summer internship as a student reporter with the UK’s _Computer Weekly_ news
 
 **Corey Davis** is a Systems Librarian at the University of Victoria and was also the Digital Preservation Network Manager from Council of Prairie and Pacific University Libraries until 2017. He is currently on the committees of several organizations including the Chair of the Web Archiving Group for the Council of Prairie and Pacific University Libraries and of the Digital Preservation Working Group at the University of Victoria. Also, in 2015 Corey was awarded the Digital Humanities Institute Resident Fellowship from the University of Rochester. Corey has a BA with Distinction in Greek and Roman Studies from UVic and graduated with a Masters in Library and Information Science from UBC in 2003.
 
-[Corey Davis’s CV](./files/cv_david.pdf)
+[Corey Davis’s CV](/files/cv_davis.pdf)
 
 ## John Durno, Head of Library Systems
 
