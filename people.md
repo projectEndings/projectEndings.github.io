@@ -10,7 +10,8 @@ Over the years, many colleagues and students had a hand in building these variou
 
 ## Endings Humanities Faculty
 
-### Claire Carlin, Le Mariage sous l’Ancien Régime (Marriage in Early Modern France)
+### Claire Carlin
+#### Le Mariage sous l’Ancien Régime (Marriage in Early Modern France)
 
 A specialist in Early Modern French studies, **Claire Carlin** (PhD, University of California) has been a faculty member at UVic from 1989-2015. Her major publications focus on the history of theatre and on representations of Early Modern marriage. Her specializations include 17th-century theatre, history of marriage in the 16th-18th centuries, digital humanities, and feminist theory.
 
@@ -32,7 +33,8 @@ Ongoing work on _préciosité_, women as writers and readers.
 
 ----------------
 
-### Ewa Czaykowska-Higgins, The Nxa’amxcin Database and Dictionary
+### Ewa Czaykowska-Higgins
+#### The Nxa’amxcin Database and Dictionary
 
 **Ewa Czaykowska-Higgins** (PhD, MIT) is a professor in the University of Victoria’s Department of Linguistics. Her research focuses primarily on Salish languages, and much of her work as a linguist has been as an ally supporting language revitalization efforts in several Salish communities.
 
@@ -46,7 +48,8 @@ And as a linguist, she understands that language is at the core of who we are an
 
 ----------------
 
-### Janelle Jenstad The Map of Early Modern London
+### Janelle Jenstad 
+#### The Map of Early Modern London
 
 **Janelle Jenstad** (PhD, Queen’s University) associate professor in the department of English at the University of Victoria, is the general editor and coordinator of **[The Map of Early Modern London](https://mapoflondon.uvic.ca/)**. She is also the assistant coordinating editor of Internet Shakespeare Editions. She has taught at Queen’s University, the Summer Academy at the Stratford Festival, the University of Windsor, and the University of Victoria. Her articles have appeared in the _Journal of Medieval and Early Modern Studies, Early Modern Literary Studies, Elizabethan Theatre, Shakespeare Bulletin: A Journal of Performance Criticism, and The Silver Society Journal_. Her book chapters have appeared (or will appear) in _Performing Maternity in Early Modern England_ (Ashgate, 2007), _Approaches to Teaching Othello_ (Modern Language Association, 2005), _Shakespeare, Language and the Stage, The Fifth Wall: Approaches to Shakespeare from Criticism, Performance and Theatre Studies_ (Arden/Thomson Learning, 2005), _Institutional Culture in Early Modern Society_ (Brill, 2004), _New Directions in the Geohumanities: Art, Text, and History at the Edge of Place_ (Routledge, 2011), and _Teaching Early Modern English Literature from the Archives_ (MLA, forthcoming). She is currently working on an edition of _The Merchant of Venice_ for ISE and Broadview P. She lectures regularly on London studies, digital humanities, and on Shakespeare in performance.
 
@@ -56,7 +59,8 @@ And as a linguist, she understands that language is at the core of who we are an
 
 ----------------
 
-### Elizabeth Grove-White The Robert Graves Diary Project
+### Elizabeth Grove-White 
+#### The Robert Graves Diary Project
 
 Following the birth of the first of her four children, **Elizabeth Grove-White** (PhD Trinity College Dublin) worked as a researcher, writer, editor, and producer at the CBC where she won Canada’s Peabody Award for her documentary, “The Longest Journey.” She has taught in Toronto’s Ryerson University as well as working for a variety of print and broadcast media in Canada. Her travel pieces have appeared in a range of print and digital formats and she remains a frequent contributor to the _Globe and Mail’s_ Books section.
 
