@@ -6,7 +6,7 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 Over the years, many colleagues and students had a hand in building these various projects. Each day we gratefully remember their contributions as we build on their work for The Endings Project.
 
-# Endings Humanities Faculty #
+#Endings Humanities Faculty#
 
 ##Claire Carlin Le Mariage sous l’Ancien Régime (Marriage in Early Modern France)##
 
@@ -14,7 +14,8 @@ A specialist in Early Modern French studies, **Claire Carlin** (PhD, University 
 
 Her research projects include the following:
 
-**Representations of marriage in early modern France** – _[Le Mariage sous l’Ancien Régime](http://mariage.uvic.ca)_ is an ongoing digital anthology and scholarly edition funded by SSHRC 2001-2004, 2007-2013\. Besides numerous articles on this topic, she delivered keynote addresses to the Société pour l’Analyse de la Topique Romanesque (SATOR), Université de Paris VII, in 2007 and to the joint conference of the Société d’étude du XVIIe siècle, the British Society for Seventeenth-Century French Studies, the North American Society for Seventeenth-Century French Literature and the Centre international de rencontres sur le XVIIe siècle at Oxford University in 2006\. She also edited _Le Mariage sous l’Ancien Régime_, special issue of _Dalhousie French Studies_, 56, fall 2001.
+**Representations of marriage in early modern France**
+[Le Mariage sous l’Ancien Régime](http://mariage.uvic.ca)_ is an ongoing digital anthology and scholarly edition funded by SSHRC 2001-2004, 2007-2013\. Besides numerous articles on this topic, she delivered keynote addresses to the Société pour l’Analyse de la Topique Romanesque (SATOR), Université de Paris VII, in 2007 and to the joint conference of the Société d’étude du XVIIe siècle, the British Society for Seventeenth-Century French Studies, the North American Society for Seventeenth-Century French Literature and the Centre international de rencontres sur le XVIIe siècle at Oxford University in 2006\. She also edited _Le Mariage sous l’Ancien Régime_, special issue of _Dalhousie French Studies_, 56, fall 2001.
 
 She has edited Pierre Corneille’s _La Veuve_ and _La Suivante_ for the _Théâtre complet_, vol. I. She has published monographs on Corneille’s theatre in 2000 (_Women Reading Corneille: Feminist Psychocriticisms of_ Le Cid) and 1998 (_Pierre Corneille Revisited_).
 
