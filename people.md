@@ -3,7 +3,7 @@ layout: page
 title: People
 subtitle: Building Sustainable Digital Humanities Projects
 ---
-Humanities Faculty | Librarians | Programmers | Research Assistants
+[Humanities Faculty](#Endings-Humanities-Faculty) | [Librarians](#librarians) | [Programmers](#programmers) | [Research Assistants](#research-assistants)
 
 
 Over the years, many colleagues and students had a hand in building these various projects. Each day we gratefully remember their contributions as we build on their work for The Endings Project.
