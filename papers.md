@@ -10,6 +10,8 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 * Czaykowska-Higgins, Ewa, and Sarah M. Kell  "[Why do print at all? Constructing a 'dictionary' for the future](https://github.com/projectEndings/Endings/blob/master/presentations/SHARP_2017/CzaykowskaKellSHARP2017AbstractFinal.pdf)". SHARP Conference 2017: Technologies of the Book, Victoria, BC, Canada. 10 June 2017.
 
+* Czaykowska-Higgins, Ewa and Sarah M. Kell. 2017. "[Using TEI for Language Documentation Projects: The Nxaʔamxčín Database and Dictionary](https://hcmc.uvic.ca/tei2017/abstracts/t_117_czaykowska_kell_languagedocumentation.html)." TEI 2017, University of Victoria, Victoria, BC. 11 November 2017.
+
 * Davis, Corey. 2017. "[A Website on the Shelf: Libraries and the Challenges of Digital Preservation](https://github.com/projectEndings/Endings/raw/master/presentations/SHARP_2017/Davis-SHARP2017-Presentation.pdf)." SHARP Conference 2017: Technologies of the Book, Victoria, BC, Canada. 10 June 2017.
 
 * Goddard, Lisa, and Christine Walde. 2017. "[Negotiating Sustainability: The Grant Services 'Menu' at UVic Libraries](https://dh2017.adho.org/abstracts/231/231.pdf)." Digital Humanities 2017 Conference, Montreal, Canada. August 2017.
