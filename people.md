@@ -94,7 +94,7 @@ Goddard's [ORCID](https://orcid.org/0000-0002-4970-053X)
 ----------------
 
 ### J. Matthew Huculak, Digital Scholarship Librarian
-**Dr. J. Matthew Huculak** is Digital Scholarship Librarian at the University of Victoria. He is an Advisory Board Member of Project Muse at Johns Hopkins University Press, the Director of the [Modernist Versions Project](mvp.uvic.ca) and co-founder of [Open Modernisms](openmods.uvic.ca), an open-source web-based resource to share open-access course packs. He co-teaches the PreDigital Book course at the [Digital Humanities Summer Insitute(dhsi.org) and is former Project Manger at the [Modernist Journals Project](modjourn.org). With degrees in both library science and literature he publishes and teaches at the intersections of archives, libraries, book history, modernism, and periodical studies. 
+**Dr. J. Matthew Huculak** is Digital Scholarship Librarian at the University of Victoria. He is an Advisory Board Member of Project Muse at Johns Hopkins University Press, the Director of the [Modernist Versions Project](https://mvp.uvic.ca) and co-founder of [Open Modernisms](https://openmods.uvic.ca), an open-source web-based resource to share open-access course packs. He co-teaches the PreDigital Book course at the [Digital Humanities Summer Insitute(https://dhsi.org) and is former Project Manger at the [Modernist Journals Project](modjourn.org). With degrees in both library science and literature he publishes and teaches at the intersections of archives, libraries, book history, modernism, and periodical studies. 
 
 Huculak's [ORCID](https://orcid.org/0000-0002-2717-1112). 
 
@@ -127,14 +127,14 @@ In addition to his work on the Endings project, Stewart leads a research cluster
 
 **Greg Newton** holds a B.A. (double-major) in English and History, as well as a post-degree diploma in Applied Linguistics and a Masters in Education (Educational Technology). He is responsible for developing client and server software and websites, managing hardware in the HCMC research lab, and maintaining Humanities server infrastructure in co-operation with Research Computing.
 
-In addition to the Endings Project, Greg’s current projects include [Myths on Maps](http://myths.uvic.ca/) and the [Canadian Great War](https://cgwp.uvic.ca/)
+In addition to the Endings Project, Greg’s current projects include [Myths on Maps](https://myths.uvic.ca/) and the [Canadian Great War](https://cgwp.uvic.ca/)
 
 
 # Research Assistants
 
 ### Sarah Kell, Researcher
 
-**Sarah Kell** has a BA in Linguistics and a MEd in Indigenous Language Revitalization, both from the University of Victoria. She has been co-editor of the Nxaʔamxčín Database and Dictionary since 2010\. Sarah also assists UVic linguists with research on other Salish languages and consults on Indigenous language curriculum development with First Nations, school districts, and the BC Ministry of Education.
+**Sarah Kell** has a BA in Linguistics and a MEd in Indigenous Language Revitalization, both from the University of Victoria. She has been co-editor of the Nxaʔamxčín Database and Dictionary since 2010. Sarah also assists UVic linguists with research on other Salish languages and consults on Indigenous language curriculum development with First Nations, school districts, and the BC Ministry of Education.
 
 ----------------
 
