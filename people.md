@@ -64,20 +64,20 @@ A summer internship as a student reporter with the UK’s _Computer Weekly_ news
 
 **Corey Davis** is a Systems Librarian at the University of Victoria and was also the Digital Preservation Network Manager from Council of Prairie and Pacific University Libraries until 2017. He is currently on the committees of several organizations including the Chair of the Web Archiving Group for the Council of Prairie and Pacific University Libraries and of the Digital Preservation Working Group at the University of Victoria. Also, in 2015 Corey was awarded the Digital Humanities Institute Resident Fellowship from the University of Rochester. Corey has a BA with Distinction in Greek and Roman Studies from UVic and graduated with a Masters in Library and Information Science from UBC in 2003.
 
-[Corey Davis’s CV]
+[Corey Davis’s CV](
 
 ## John Durno, Head of Library Systems
 
 For the past eleven years, **John Durno** has been Head of Library Systems at the University of Victoria, where he manages the exceptional team responsible for building and maintaining the Libraries’ IT environment. John’s recent publications include Ddgital archaeology and forensics, which includes working with floppy discs from the 1980s and Building capacities in digital archaeology. John received a BFA, MFA, and MLIS all from the University of British Columbia. His research interests including digital forensics, digital archaeology, and any other excuse to muck about with old hardware and software.
 
-[John Durno’s CV]
+[ORCID](https://orcid.org/0000-0003-0419-9742)
 
 
 ## Lisa Goddard, Associate University Librarian for Digital Scholarship and Strategy
 
 **Lisa Goddard** is the Associate University Librarian for Digital Scholarship and Strategy at University of Victoria Libraries. She holds degrees from Queen’s, McGill, and Memorial University, and is currently completing an MA in Humanities Computing at the University of Alberta. Lisa’s research interests include open access publishing, semantic web technologies, digital publishing & preservation, and digital humanities.
 
-[Lisa Goddard’s CV]
+[ORCID](https://orcid.org/0000-0002-4970-053X)
 
 ## J. Matthew Huculak, Digital Scholarship Librarian
 **Dr. J. Matthew Huculak** is Digital Scholarship Librarian at the University of Victoria. He is an Advisory Board Member of Project Muse at Johns Hopkins University Press, the Director of the [Modernist Versions Project](mvp.uvic.ca) and co-founder of [Open Modernisms](openmods.uvic.ca), an open-source web-based resource to share open-access course packs. He co-teaches the PreDigital Book course at the [Digital Humanities Summer Insitute(dhsi.org) and is former Project Manger at the [Modernist Journals Project](modjourn.org). With degrees in both library science and literature he publishes and teaches at the intersections of archives, libraries, book history, modernism, and periodical studies. [ORCID](https://orcid.org/0000-0002-2717-1112). 
@@ -119,15 +119,10 @@ In addition to the Endings Project, Greg’s current projects include [Myths on 
 
 **Tye Landels** is a student at UVic studying for an English major (Honors with Distinction) and European Studies minor. He is also a past President of the English Students’ Society and the 2014 3M National Student Fellowship Recipient. As an English Honours student, Tye turned his passion for geography and urban studies to helping create the Map of Early Modern London.
 
-[Tye Landel’s CV]
-
 ## Jennifer Polack, Research Assistant
 
 **Jennifer Polack** is an undergraduate student studying for her BA (English Major, Professional Communications Minor) at the University of Victoria. She is working as a co-op student for The Endings Project. Her previous co-op positions include a fundraising coordinator for the Victoria Native Friendship Centre and editorial assistant on the International Journal of Indigenous Health. She is also a social media and content developer for Animikii, Inc.
 
-
 ## Joseph Takeda, Junior Programmer/Research Assistant
 
 **Joseph Takeda** received his BA (Honours with Distinction) in English and Women’s Studies from the University of Victoria in 2016. He is currently studying for his MA in English (Science and Technology Research Stream) from the University of British Columbia. In 2016, Joseph was awarded the Department of English Medal of Excellence and the SSHRC CGS-M (UBC). His recent publications include “Making the RA Matter: Pedagogy, Interface, and Practices” written with Janelle Jenstad and “The MoEML Finding Aid to the Bills of Mortality”. He is a Junior Programmer/Research Assistant on The Endings Project.
-
-[Joseph Takeda’s CV]
