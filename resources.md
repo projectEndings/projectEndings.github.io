@@ -12,8 +12,7 @@ attention to the challenges addressed in our application.
 ## Part I: Early warnings, up to 2005
 
 Alemneh D. et al. “A Metadata Approach to Preservation of Digital Resources: The University of
-North Texas Libraries’ Experience.” _First Monday_ 7.8 (2002). [http://firstmonday.org/ojs/](http://firstmonday.org/ojs/)
-index.php/fm/article/view/981/
+North Texas Libraries’ Experience.” _First Monday_ 7.8 (2002). [http://firstmonday.org/ojs/](http://firstmonday.org/ojs/index.php/fm/article/view/981/)
 
 Arms, William Y. “Preservation of Scientific Serials: Three Current Examples.” _The Journal of
 Electronic Publishing_ 5.2 (December 1999): 47 pars.
@@ -83,7 +82,7 @@ Consultation. Building Infrastructure for Access to and Preservation of Research
 Submitted by the NDAC Working Group to the Social Sciences and Humanities Research
 Council of Canada and the National Archivist of Canada. June 2002. [http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_finalreport_e.pdf](http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_finalreport_e.pdf)
 
-## Part II: 2005 
+## Part II: 2005
 
 ArchiveReady.com: Website Archivability Testing Tool, 20 August 2015.
 [http://archiveready.com/](http://archiveready.com/)**
@@ -492,5 +491,3 @@ Shulman, James. “Artstor Announces New Digital Humanities Award: Winners Will 
 Years' Free Use of Shared Shelf Cloud-Based Asset Management Tool.” _Artstor_. 6 September
 
 2014. [http://www.artstor.org/news/n-html/digital-humanities.shtml](http://www.artstor.org/news/n-html/digital-humanities.shtml)
-
-
