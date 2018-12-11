@@ -3,7 +3,6 @@ layout: page
 title: Resources
 subtitle: Building Sustainable Digital Humanities Projects
 ---
---- layout: page title: Resources subtitle: Building Sustainable Digital Humanities Projects ---
 
 This list demonstrates that preservation has been a concern of the DH community since the late 1990s. We present the list in two parts in order to demonstrate our awareness of the increasing attention to the challenges addressed in our application. 
 
