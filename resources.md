@@ -8,7 +8,7 @@ This list demonstrates that preservation has been a concern of the DH community 
 
 ## Part I: Early warnings, up to 2005
 
-Alemneh D. et al. “A Metadata Approach to Preservation of Digital Resources: The University of North Texas Libraries’ Experience.” _First Monday_ 7.8 (2002). [http://firstmonday.org/ojs/http://firstmonday.org/ojs/index.php/fm/article/view/981](http://firstmonday.org/ojs/index.php/fm/article/view/981/)
+Alemneh D. et al. “A Metadata Approach to Preservation of Digital Resources: The University of North Texas Libraries’ Experience.” _First Monday_ 7.8 (2002). [http://firstmonday.org/ojs/index.php/fm/article/view/981](http://firstmonday.org/ojs/index.php/fm/article/view/981/)
 
 Arms, William Y. “Preservation of Scientific Serials: Three Current Examples.” _The Journal of Electronic Publishing_ 5.2 (December 1999): 47 pars. [http://quod.lib.umich.edu/j/jep/3336451.0005.202/](http://quod.lib.umich.edu/j/jep/3336451.0005.202/preservation-of-scientific-serials-three-current-examples?rgn=main;view=fulltext)
 
