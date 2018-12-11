@@ -56,7 +56,7 @@ Map of Early Modern London is on [Twitter](https://www.twitter.com/MoEMLondon) a
 
 [Apr 23, 2015 – “Shakespeare’s London mapped online by UVic researchers”](http://www.cbc.ca/news/canada/british-columbia/shakespeare-s-london-mapped-online-by-uvic-researchers-1.3046122)
 
-## Le Mariage sous l’Ancien Régime (Marriage in Early Modern France)#
+## Le Mariage sous l’Ancien Régime (Marriage in Early Modern France)
 
 During the Early Modern era (16<sup>th</sup>-18<sup>th</sup> centuries) Western society was obsessed by marriage, an institution evolving rapidly as the Catholic Church faced revolt from protestants and governments sought to legislate in areas previously left under religious authority. From the formal beginning of the Counter-Reformation with the Council of Trent in 1545 until the end of Louis XIV’s reign in 1715, attempts in France to renew the institution of marriage inspired debate resulting in the production of new sorts of texts and images alongside the rebirth of certain traditional forms of critique. The documents in this anthology are the fruit of the conflict among competing discourses: what we call the “nuptial imaginary” is composed of diverse textual genres, each with its own characteristics, but all concerned with the fears, desires, and phantasms that were increasingly visible in an Early Modern society reacting to new social, political, and religious configurations.
 
