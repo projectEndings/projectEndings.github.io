@@ -20,6 +20,7 @@ The Endings project began with a portfolio of four long-running University of Vi
 
 These original projects are described below. As the project has proceeded, other projects have been "adopted" as Endings projects:
 
+ - [Modernist Versions Project](http://mvp.uvic.ca)
  - [The Scandinavian Canadian Studies Journal](http://scancan.net)
  - [The Colonial Despatches of Vancouver Island and British Columbia](https://bcgenesis.uvic.ca)
  - [My Norse Digital Image Repository](http://myndir.uvic.ca)
