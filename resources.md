@@ -38,9 +38,9 @@ Rothenberg, J. and T. Bikson. “Carrying Authentic, Understandable and Usable D
 
 Rothenberg, Jeff. “An Experiment in Using Emulation to Preserve Digital Publications.” The Koninklijke Bibliotheek. RAND-Europe The Koninklijke Bibliotheek Den Haag, April 2000. [http://www.kb.nl/sites/default/files/docs/NEDLIBemulation.pdf](http://www.kb.nl/sites/default/files/docs/NEDLIBemulation.pdf)
 
-Siemens, Raymond (Project Coordinator), Michael Best, Alan Burk, Elizabeth Grove-White, Jean-Claude Guédon, James Kerr, Andy Pope, Geoffrey Rockwell, Lynne Siemens. _The Credibility of Electronic Publishing._ Report for the Humanities and Social Sciences Federation of Canada, 2000. [http://web.viu.ca/hssfc/final/credibility.htm](http://web.viu.ca/hssfc/final/credibility.htm)
+Siemens, Raymond (Project Coordinator), Michael Best, Alan Burk, Elizabeth Grove-White, Jean-Claude Guédon, James Kerr, Andy Pope, Geoffrey Rockwell, Lynne Siemens. _The Credibility of Electronic Publishing._ Report for the Humanities and Social Sciences Federation of Canada, 2000. [http://internetshakespeare.uvic.ca/Annex/Articles/Tassie/cred/](http://internetshakespeare.uvic.ca/Annex/Articles/Tassie/cred/)
 
-Smith, Abbey. “Preservation in the Future Tense.” _CLIR Issues_ 3 (May/June 1998): 46 pars. [http://www.clir.org/pubs/issues/issues03.html](http://www.clir.org/pubs/issues/issues03.html)
+Smith, Abbey. “Preservation in the Future Tense.” _CLIR Issues_ 3 (May/June 1998): 46 pars. [https://www.clir.org/1998/05/clir-issues-number-3/](https://www.clir.org/1998/05/clir-issues-number-3/)
 
 Social Sciences and Humanities Research Council. _National Research Data Archive Consultation Phase One: Needs Assessment Report_. May 2001. [http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_phase1_e.pdf](http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_phase1_e.pdf)
 
@@ -60,17 +60,17 @@ Brown, Susan, P. Clements, I. Grundy, S. Ruecker, J. Antoniuk and S. Balazs. “
 
 Burkhardt, Marcus. “Improvements to the Usability of Software Collections Will Unlock the Potential of Open Digital Archives.” Impact of Social Sciences, LSE Impact Blog, 27 May 2013. [http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/27/usability-of-software-](http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/27/usability-of-software-) collections/
 
-Burrows, T. “Sharing Humanities Data for e-Research. Conceptual and Technical Issues.” In _Sustainable Data from Digital Research. Humanities Perspectives on Digital Scholarship. Proceedings of the Conference Held at the University of Melbourne, 12-14th December 2011_. Sydney: Custom Book Centre. [http://ses.library.usyd.edu.au/handle/2123/](http://ses.library.usyd.edu.au/handle/2123/)
+Burrows, T. “Sharing Humanities Data for e-Research. Conceptual and Technical Issues.” In _Sustainable Data from Digital Research. Humanities Perspectives on Digital Scholarship. Proceedings of the Conference Held at the University of Melbourne, 12-14th December 2011_. Sydney: Custom Book Centre. [https://research-repository.uwa.edu.au/en/publications/sharing-humanities-data-for-e-research-conceptual-and-technical-i](https://research-repository.uwa.edu.au/en/publications/sharing-humanities-data-for-e-research-conceptual-and-technical-i)
 
 Caplan, Priscilla. “The Florida Digital Archive and DAITSS: A Working Preservation Repository Based on Format Migration.” _International Journal on Digital Libraries_ 6.4 (2007): 305-311. [http://link.springer.com/content/pdf/10.1007%2Fs00799-007-0009-6.pdf](http://link.springer.com/content/pdf/10.1007%2Fs00799-007-0009-6.pdf)
 
 Canadian Research Data Summit 2011. _Mapping the Data Landscape_. [http://longrangeplan.ca/wp-content/uploads/2010/10/Data_Summit_Report.pdf](http://longrangeplan.ca/wp-content/uploads/2010/10/Data_Summit_Report.pdf)
 
-Chawner, Brenda, and Rowena Cullen. “Institutional Repositories in New Zealand: Comparing Institutional Strategies for Digital Preservation and Discovery.” ResearchArchive @ Victoria, 2008. [http://researcharchive.vuw.ac.nz/handle/10063/](http://researcharchive.vuw.ac.nz/handle/10063/)
+Chawner, Brenda, and Rowena Cullen. “Institutional Repositories in New Zealand: Comparing Institutional Strategies for Digital Preservation and Discovery.” ResearchArchive @ Victoria, 2008. [http://researcharchive.vuw.ac.nz/handle/10063/277](http://researcharchive.vuw.ac.nz/handle/10063/277)
 
 Conway, P. “Preservation in the Age of Google: Digitization, Digital Preservation, and Dilemmas.” The Library Quarterly 80.1 (2010): 61-79. _Data Center for the Humanities_ (DCH). June 2013. [http://www.dch.uni-koeln.de](http://www.dch.uni-koeln.de)
 
-Davis, Corey. “Archiving the Web: A Case Study from the University of Victoria. _Code{4}Lib Journal_ , 26. (October 2014). [http://journal.code4lib.org/articles/](http://journal.code4lib.org/articles/)
+Davis, Corey. “Archiving the Web: A Case Study from the University of Victoria. _Code{4}Lib Journal_ , 26. (October 2014). [https://journal.code4lib.org/articles/10015](https://journal.code4lib.org/articles/10015)
 
 De Leeuwe, Just, and Mirella Van der Velde. “From Repository to Eternity: From Delft Repository to DARE—The Developments of OAI in the Netherlands.” _Serials: The Journal for the Serials Community_ 19, no. 2 (2006): 156-160.
 
@@ -92,7 +92,7 @@ Grotke, Abbie. “Web Archiving at the Library of Congress.” LOC website, 2 Au
 
 Hitchcock, Steve, David Tarrant, and L. Carr. _Towards Repository Preservation Services: Final Report from the JISC Preserv 2 Project_. London: JISC, 2009. [http://ie-repository.jisc.ac.uk/381/](http://ie-repository.jisc.ac.uk/381/)
 
-Hockx-Yu, Helen. “Digital Preservation in the Context of Institutional Repositories.” _Program: _Electronic Library and Information Systems_ 40.3 (2006): 232-243. [http://eprints.rclis.org/handle/10760/](http://eprints.rclis.org/handle/10760/)
+Hockx-Yu, Helen. “Digital Preservation in the Context of Institutional Repositories.” _Program: _Electronic Library and Information Systems_ 40.3 (2006): 232-243. [http://eprints.rclis.org/8189](http://eprints.rclis.org/8189)
 
 Hrynaszkiewicz, Iain. “Data Descriptors: Providing the Necessary Information to Make Data Open, Discoverable and Reusable.” Impact of Social Sciences, LSE Impact Blog, 22 October 2014. [http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-discoverable-nature/](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-discoverable-nature/)
 
@@ -116,9 +116,7 @@ Kretzschmar, W. Jr. and Potter W. “Library Collaboration with Large Digital Hu
 
 Maron, Nancy L. , Sarah Pickle, preface by Deanna Marcum. _Searching for Sustainability: Strategies from Eight Digitized Special Collections._ Ithaka S + R, 20 November 2013. [http://www.sr.ithaka.org/research-publications/searching-sustainability](http://www.sr.ithaka.org/research-publications/searching-sustainability)
 
-Maron, Nancy L. and Sarah Pickle. _Sustaining the Digital Humanities_. Ithaka S + R, 18 June
-
-2014. [http://www.sr.ithaka.org/research-publications/sustaining-digital-humanities](http://www.sr.ithaka.org/research-publications/sustaining-digital-humanities)
+Maron, Nancy L. and Sarah Pickle. _Sustaining the Digital Humanities_. Ithaka S + R, 18 June 2014. [http://www.sr.ithaka.org/research-publications/sustaining-digital-humanities](http://www.sr.ithaka.org/research-publications/sustaining-digital-humanities)
 
 Maron , Nancy L, Jason Yun and Sarah Pickle. _Sustaining our Digital Future: Institutional Strategies for Digital Content_. JISC, Strategic Content Alliance and Ithaka S + R. January 29, 2013. [http://www.sr.ithaka.org/research-publications/sustaining-our-digital-future](http://www.sr.ithaka.org/research-publications/sustaining-our-digital-future)
 
@@ -138,7 +136,7 @@ Prieto, Adolfo G. “From Conceptual to Perceptual Reality: Trust in Digital Rep
 
 Research Data Canada, Research Data Strategy Working Group. _Stewardship of Research Data in Canada: A Gap Analysis_. 2008. [http://datalib.library.ualberta.ca/data/GapAnalysis.pdf](http://datalib.library.ualberta.ca/data/GapAnalysis.pdf)
 
-Rieger, Oya and Mickey Casad. “Interactive Digital Media Art Survey: Key Findings and Observations.” Digital Scholarship and Preservation Services Press. Blog post, July 30 2014. [http://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and- observations/](http://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and- observations/)
+Rieger, Oya and Mickey Casad. “Interactive Digital Media Art Survey: Key Findings and Observations.” Digital Scholarship and Preservation Services Press. Blog post, July 30 2014. [https://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and-observations/](https://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and-observations/)
 
 Rockwell, Geoffrey, Shawn Da, Joyce Yu and Maureen Engel. “Burying Dead Projects: Depositing the Globalization Compendium.” _Digital Humanities Quarterly_ 8.2 (2014). [http://digitalhumanities.org:8081/dhq/vol/8/2/000179/000179.html](http://digitalhumanities.org:8081/dhq/vol/8/2/000179/000179.html)
 
@@ -154,9 +152,9 @@ Siemens, Lynne. (ed.). _Issues in Large Project Planning and Management_. Digita
 
 Sinclair, Stéfan and Geoffrey Rockwell. “Towards an Archaeology of Text Analysis Tools.” Conference paper, Digital Humanities conference, Lausanne, Switzerland, July 2014. [https://dh2014.files.wordpress.com/2014/07/dh2014_abstracts_proceedings_07-11.pdf](https://dh2014.files.wordpress.com/2014/07/dh2014_abstracts_proceedings_07-11.pdf)
 
-Smith, MacKenzie. “Exploring Variety in Digital Collections and the Implications for Digital Preservation.” _Library Trends_ 54.1 (2005): 6-15. [http://hdl.handle.net/1721.1/](http://hdl.handle.net/1721.1/)
+Smith, MacKenzie. “Exploring Variety in Digital Collections and the Implications for Digital Preservation.” _Library Trends_ 54.1 (2005): 6-15. [https://dspace.mit.edu/handle/1721.1/30592](https://dspace.mit.edu/handle/1721.1/30592)
 
-Social Sciences and Humanities Research Council. _Draft Tri-Agency Statement of Principles on Digital Data Management._ 20 July 2015. [http://www.science.gc.ca/default.asp?lang=En&n=547652FB](http://www.science.gc.ca/default.asp?lang=En&n=547652FB)
+Social Sciences and Humanities Research Council. _Draft Tri-Agency Statement of Principles on Digital Data Management._ 20 July 2015. [https://www.science.gc.ca/eic/site/063.nsf/eng/h_83F7624E.html](https://www.science.gc.ca/eic/site/063.nsf/eng/h_83F7624E.html)
 
 Social Sciences and Humanities Research Council. Image, Text, Sound, Technology Program. SSHRC Awards Search Engine (1998-2013). [http://www.outil.ost.uqam.ca/CRSH/RechProj.aspx](http://www.outil.ost.uqam.ca/CRSH/RechProj.aspx)
 
@@ -189,7 +187,8 @@ Vila, Camille. The Cost of Customization: Building, Maintaining, and Sustaining 
 
 **[C]** Grove-White, Elizabeth. “Authorship, Collaboration and ‘Radiant Textuality’: Reflections on Robert Graves’ Diaries and _Epilogue_ .” Robert Graves and the Art of Collaboration, Conference of the Robert Graves Society. Mallorca, Spain, July 2006.
 
-**[C]** Grove-White, Elizabeth. “Developing TEI Ontologies for Diurnal Records: Robert Graves Diary Case Study.” Digital Humanities Observatory/NINEs, Summer Workshop. Royal Irish Academy, July 2009. (Led directly to the Irish partnership for the public humanities _Letters of 1916_ project. [http://dh.tcd.ie/letters1916/](http://dh.tcd.ie/letters1916/)
+**[C]** Grove-White, Elizabeth. “Developing TEI Ontologies for Diurnal Records: Robert Graves Diary Case Study.” Digital Humanities Observatory/NINEs, Summer Workshop. Royal Irish Academy, July 2009. (Led directly to the Irish partnership for the public humanities _Letters of 1916_ project. [~~http://dh.tcd.ie/letters1916/~~](http://dh.tcd.ie/letters1916/)
+New link: [http://letters1916.maynoothuniversity.ie/](http://dh.tcd.ie/letters1916/)
 
 **[C]** Grove-White, Elizabeth. “Robert Graves’s Irish Inheritances.” Robert Graves and Ireland: A Symposium. Queen’s University of Belfast, November 2011.
 
@@ -207,15 +206,13 @@ Czaykowska-Higgins, Ewa, Martin Holmes, and Sarah Kell. “Technology in Documen
 
 Carlin, Claire. “Drawing Knowledge from Information: Early Modern Texts on the TAPoR Platform,” _Text Technololgy 1_ (2005): 13-20. 
 
-**[C]** Holmes, Martin, Claire Carlin, and Eric Haswell. “Problems with Marriage: Annotating Seventeenth-century French Engravings with TEI and SVG.” Digital Humanities 2006. Paris, 
-
-France, July 2006. [http://www.allc-ach2006.colloques.paris-sorbonne.fr/DHs.pdf](http://www.allc-ach2006.colloques.paris-sorbonne.fr/DHs.pdf)
+**[C]** Holmes, Martin, Claire Carlin, and Eric Haswell. “Problems with Marriage: Annotating Seventeenth-century French Engravings with TEI and SVG.” Digital Humanities 2006. Paris, France, July 2006. [http://www.allc-ach2006.colloques.paris-sorbonne.fr/DHs.pdf](http://www.allc-ach2006.colloques.paris-sorbonne.fr/DHs.pdf)
 
 **[C]** Holmes, Martin, and Claire Carlin. “Domstic Strife in Early Modern Europe: Images and Texts in a Virtual Anthology.” Digital Humanities 2008. Oulu, Finland, June 2008. [http://www.ekl.oulu.fi/dh2008/Digital%20Humanities%202008%20Book%20of%20Abstracts.pdf](http://www.ekl.oulu.fi/dh2008/Digital%20Humanities%202008%20Book%20of%20Abstracts.pdf)
 
 **[C]** Holmes, Martin. “Using the Universal Similarity Metric to Map Correspondences between Witnesses.” Digital Humanities 2010. London, England. July, 2010. [http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-693.html](http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-693.html)
 
-Holmes, Martin, and Laurent Romary. “Encoding Models for Scholarly Literature". _E- Publishing and Digital Libraries: Legal and Organizational Issues_. Eds. Ioannis Iglezakis, Tatiana-Eleni Synodinou, and Sarantos Kapidakis. Hershey, PA: Information Science Reference, 2011. [hal.archives-ouvertes.fr/hal-00390966/fr/](hal.archives-ouvertes.fr/hal-00390966/fr/)
+Holmes, Martin, and Laurent Romary. “Encoding Models for Scholarly Literature". _E- Publishing and Digital Libraries: Legal and Organizational Issues_. Eds. Ioannis Iglezakis, Tatiana-Eleni Synodinou, and Sarantos Kapidakis. Hershey, PA: Information Science Reference, 2011. [http://hal.archives-ouvertes.fr/hal-00390966/fr/](http://hal.archives-ouvertes.fr/hal-00390966/fr/)
 
 **[C]** Holmes, Martin, and Megan Timney. “Image Markup Tool 2.0.” Digital Humanities 2011. Stanford,CA, June 2011. [http://dh2011abstracts.stanford.edu/xtf/view?docId=tei/ab-128.xml](http://dh2011abstracts.stanford.edu/xtf/view?docId=tei/ab-128.xml)
 
@@ -232,9 +229,7 @@ Holmes, Martin, and Laurent Romary. “Encoding Models for Scholarly Literature"
 
 **[C]** Jenstad, Janelle, and Tracey Hill (Bath Spa University). “‘Our devices for that solemne and Iouiall daye’: Collaboration in the Making of the Early Modern Lord Mayor’s Show.” North American Conference on British Studies. Baltimore, November 2010.
 
-Jenstad, Janelle. “Using Early Modern Maps in Literary Studies: Views and Caveats from London.” _New Directions in the Geohumanities: Art, Text, and History at the Edge of Place_. Ed. 
-
-Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. New York: Routledge, 2011. 112-19.
+Jenstad, Janelle. “Using Early Modern Maps in Literary Studies: Views and Caveats from London.” _New Directions in the Geohumanities: Art, Text, and History at the Edge of Place_. Ed. Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. New York: Routledge, 2011. 112-19.
 
 **[L]** Jenstad, Janelle. “Mapping the Literary Culture of Early Modern London.” Université Paul- Valéry, Montpellier, France, November 2011.
 
@@ -270,4 +265,4 @@ Olsen, Porter. “Hacking MITH’s Legacy Web Servers: A Holistic Approach to Ha
 
 _Open Web Platform_. 9 July 2014. [http://www.w3.org/wiki/Open_Web_Platform](http://www.w3.org/wiki/Open_Web_Platform)
 
-Shulman, James. “Artstor Announces New Digital Humanities Award: Winners Will Receive Five Years' Free Use of Shared Shelf Cloud-Based Asset Management Tool.” _Artstor_. 6 September 2014. [http://www.artstor.org/news/n-html/digital-humanities.shtml](http://www.artstor.org/news/n-html/digital-humanities.shtml) 
+Shulman, James. “Artstor Announces New Digital Humanities Award: Winners Will Receive Five Years' Free Use of Shared Shelf Cloud-Based Asset Management Tool.” _Artstor_. 6 September 2014. [https://artstor.blog/2014/09/12/introducing-the-artstor-digital-humanities-awards/](https://artstor.blog/2014/09/12/introducing-the-artstor-digital-humanities-awards/) 
