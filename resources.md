@@ -185,7 +185,7 @@ Vila, Camille. The Cost of Customization: Building, Maintaining, and Sustaining 
 
 ## Digital Humanities Contributions Emanating from Our Case Study Projects (including conference papers, marked [C] 
 
-####_The Robert Graves Diary Project_
+#### _The Robert Graves Diary Project_
 
 [C] Grove-White, Elizabeth. “Authorship, Collaboration and ‘Radiant Textuality’: Reflections on Robert Graves’ Diaries and _Epilogue_ .” Robert Graves and the Art of Collaboration, Conference of the Robert Graves Society. Mallorca, Spain, July 2006.
 
@@ -209,15 +209,15 @@ Czaykowska-Higgins, Ewa, Martin Holmes, and Sarah Kell. “Technology in Documen
 
 France, July 2006. [http://www.allc-ach2006.colloques.paris-sorbonne.fr/DHs.pdf](http://www.allc-ach2006.colloques.paris-sorbonne.fr/DHs.pdf)
 
-**[C]** Holmes, Martin, and Claire Carlin. “Domstic Strife in Early Modern Europe: Images and Texts in a Virtual Anthology.” Digital Humanities 2008. Oulu, Finland, June 2008. [http://](http://) [http://www.ekl.oulu.fi/dh2008/Digital%20Humanities%202008%20Book%20of%20Abstracts.pdf](http://www.ekl.oulu.fi/dh2008/Digital%20Humanities%202008%20Book%20of%20Abstracts.pdf)
+**[C]** Holmes, Martin, and Claire Carlin. “Domstic Strife in Early Modern Europe: Images and Texts in a Virtual Anthology.” Digital Humanities 2008. Oulu, Finland, June 2008. [http://www.ekl.oulu.fi/dh2008/Digital%20Humanities%202008%20Book%20of%20Abstracts.pdf](http://www.ekl.oulu.fi/dh2008/Digital%20Humanities%202008%20Book%20of%20Abstracts.pdf)
 
 **[C]** Holmes, Martin. “Using the Universal Similarity Metric to Map Correspondences between Witnesses.” Digital Humanities 2010. London, England. July, 2010. [http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-693.html](http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-693.html)
 
-Holmes, Martin, and Laurent Romary. “Encoding Models for Scholarly Literature". _E- Publishing and Digital Libraries: Legal and Organizational Issues_. Eds. Ioannis Iglezakis, Tatiana-Eleni Synodinou, and Sarantos Kapidakis. Hershey, PA: Information Science Reference, 2011. [http://](http://) hal.archives-ouvertes.fr/hal-00390966/fr/
+Holmes, Martin, and Laurent Romary. “Encoding Models for Scholarly Literature". _E- Publishing and Digital Libraries: Legal and Organizational Issues_. Eds. Ioannis Iglezakis, Tatiana-Eleni Synodinou, and Sarantos Kapidakis. Hershey, PA: Information Science Reference, 2011. [hal.archives-ouvertes.fr/hal-00390966/fr/](hal.archives-ouvertes.fr/hal-00390966/fr/)
 
 **[C]** Holmes, Martin, and Megan Timney. “Image Markup Tool 2.0.” Digital Humanities 2011. Stanford,CA, June 2011. [http://dh2011abstracts.stanford.edu/xtf/view?docId=tei/ab-128.xml](http://dh2011abstracts.stanford.edu/xtf/view?docId=tei/ab-128.xml)
 
-## _The Map of Early Modern London_** (includes invited lectures, marked **[L])**
+## _The Map of Early Modern London_ (includes invited lectures, marked **[L])**
 
 **[C]** Jenstad, Janelle. “Mapping Early Modern London: A Hypertext Atlas Project.” _City Limits? The European City, 1400-1900_. University of Manitoba,Winnipeg, October 2004.
 
@@ -261,12 +261,10 @@ Michael Dear, Jim Ketchum, Sarah Luria, and Douglas Richardson. New York: Routle
 
 _2014 Census of Open Access Repositories in Germany, Austria and Switzerland_. Launched 9 September 2014. [http://repositoryranking.org/](http://repositoryranking.org/)
 
-Lee, Christopher A., and Helen R. Tibbo. “Digital Curation and Trusted Repositories: Steps Toward Success.” _Journal of Digital Information_ 8, no. 2 (2007). [http://journals.tdl.org/jodi/article/](http://journals.tdl.org/jodi/article/) view/229/
+Lee, Christopher A., and Helen R. Tibbo. “Digital Curation and Trusted Repositories: Steps Toward Success.” _Journal of Digital Information_ 8, no. 2 (2007). [http://journals.tdl.org/jodi/article/view/229/](http://journals.tdl.org/jodi/article/view/229/) 
 
 Olsen, Porter. “Hacking MITH’s Legacy Web Servers: A Holistic Approach to Hacking on the Web.” Maryland Institute for Technology in the Humanities. 8 July 2015. [http://mith.umd.edu/](http://mith.umd.edu/) hacking-miths-legacy-servers/
 
 _Open Web Platform_. 9 July 2014. [http://www.w3.org/wiki/Open_Web_Platform](http://www.w3.org/wiki/Open_Web_Platform)
 
-Shulman, James. “Artstor Announces New Digital Humanities Award: Winners Will Receive Five Years' Free Use of Shared Shelf Cloud-Based Asset Management Tool.” _Artstor_. 6 September
-
-2014. [http://www.artstor.org/news/n-html/digital-humanities.shtml](http://www.artstor.org/news/n-html/digital-humanities.shtml) 
+Shulman, James. “Artstor Announces New Digital Humanities Award: Winners Will Receive Five Years' Free Use of Shared Shelf Cloud-Based Asset Management Tool.” _Artstor_. 6 September 2014. [http://www.artstor.org/news/n-html/digital-humanities.shtml](http://www.artstor.org/news/n-html/digital-humanities.shtml) 
