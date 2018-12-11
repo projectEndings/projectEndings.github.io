@@ -94,7 +94,7 @@ Goddard's [ORCID](https://orcid.org/0000-0002-4970-053X)
 ----------------
 
 ### J. Matthew Huculak, Digital Scholarship Librarian
-**Dr. J. Matthew Huculak** is Digital Scholarship Librarian at the University of Victoria. He is an Advisory Board Member of Project Muse at Johns Hopkins University Press, the Director of the [Modernist Versions Project](https://mvp.uvic.ca) and co-founder of [Open Modernisms](https://openmods.uvic.ca), an open-source web-based resource to share open-access course packs. He co-teaches the PreDigital Book course at the [Digital Humanities Summer Insitute(https://dhsi.org) and is former Project Manger at the [Modernist Journals Project](modjourn.org). With degrees in both library science and literature he publishes and teaches at the intersections of archives, libraries, book history, modernism, and periodical studies. 
+**Dr. J. Matthew Huculak** is Digital Scholarship Librarian at the University of Victoria. He is an Advisory Board Member of Project Muse at Johns Hopkins University Press, the Director of the [Modernist Versions Project](http://mvp.uvic.ca) and co-founder of [Open Modernisms](https://openmods.uvic.ca), an open-source web-based resource to share open-access course packs. He co-teaches the PreDigital Book course at the [Digital Humanities Summer Insitute}(https://dhsi.org) and is former Project Manger at the [Modernist Journals Project](https://modjourn.org). With degrees in both library science and literature he publishes and teaches at the intersections of archives, libraries, book history, modernism, and periodical studies. 
 
 Huculak's [ORCID](https://orcid.org/0000-0002-2717-1112). 
 
