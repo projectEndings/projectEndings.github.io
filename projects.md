@@ -3,7 +3,6 @@ layout: page
 title: Projects
 subtitle: Building Sustainable Digital Humanities Projects
 ---
-## The Endings Project ##
  
 Whereas the codex has proven its reliability over centuries, the digital documents in increasingly wide use today are evanescent and fragile. The digital humanities are facing an urgent problem: experts warn of a new “digital dark age” as our ability to produce digital content continues to outpace our capacity to preserve and access on-line resources for the long term. Awareness of the challenge of preserving and future-proofing these digital projects—many based on boutique technologies and customized code—is growing across the DH landscape, but to date more literature has been devoted to identifying the problem than to solving it.
 
@@ -30,7 +29,7 @@ These original projects are described below. As the project has proceeded, other
 All of these projects are still very much in their prime, and one or two of them are only just getting started. In fact, it is much easier to design a project from scratch with longevity in mind than it is to rescue or re-work an old project which has been active for a long time.
 
 
-#Map of Early Modern London#
+## Map of Early Modern London
 
 The Map of Early Modern London ([MoEML](https://mapoflondon.uvic.ca/index.htm)) has four distinct projects:
 
@@ -49,7 +48,7 @@ These four projects draw data from MoEML’s five databases:
 
 Map of Early Modern London is on [Twitter](https://www.twitter.com/MoEMLondon) and [Facebook](http://www.facebook.com/pages/The-Map-of-Early-Modern-London/317355293645). Check out our [blog](https://mapoflondon.uvic.ca/mdtParatextBlogPost.htm) for updates and to find out more about the project.
 
-# In the News
+### In the News
 
 [April 9, 2015 – “An Interactive Map of Shakespeare’s London” by Tanvi Misra](https://www.citylab.com/equity/2015/04/an-interactive-map-of-shakespeares-london/390060/)
 
@@ -57,7 +56,7 @@ Map of Early Modern London is on [Twitter](https://www.twitter.com/MoEMLondon) a
 
 [Apr 23, 2015 – “Shakespeare’s London mapped online by UVic researchers”](http://www.cbc.ca/news/canada/british-columbia/shakespeare-s-london-mapped-online-by-uvic-researchers-1.3046122)
 
-# Le Mariage sous l’Ancien Régime (Marriage in Early Modern France)#
+## Le Mariage sous l’Ancien Régime (Marriage in Early Modern France)#
 
 During the Early Modern era (16<sup>th</sup>-18<sup>th</sup> centuries) Western society was obsessed by marriage, an institution evolving rapidly as the Catholic Church faced revolt from protestants and governments sought to legislate in areas previously left under religious authority. From the formal beginning of the Counter-Reformation with the Council of Trent in 1545 until the end of Louis XIV’s reign in 1715, attempts in France to renew the institution of marriage inspired debate resulting in the production of new sorts of texts and images alongside the rebirth of certain traditional forms of critique. The documents in this anthology are the fruit of the conflict among competing discourses: what we call the “nuptial imaginary” is composed of diverse textual genres, each with its own characteristics, but all concerned with the fears, desires, and phantasms that were increasingly visible in an Early Modern society reacting to new social, political, and religious configurations.
 
@@ -74,7 +73,7 @@ The goal of this project is not only to develop the corpus described above, but 
 The rights to reproduce the engravings were purchased from the Bibliothèque Nationale de France thanks to funding from the Social Sciences and Humanities Research Council of Canada. Other elements of the site (contributions from the editors, transcription of texts, code and encoding) are distributed under the terms of a Creative Commons license (Attribution-NonCommercial-NoDerivs 2.5 Canada: [https://creativecommons.org/licenses/by-nc-nd/2.5/ca/deed.en](https://creativecommons.org/licenses/by-nc-nd/2.5/ca/deed.en)).
 
 
-# Nxaʔamxčín Database and Dictionary #
+## Nxaʔamxčín Database and Dictionary 
 
 This is a database of words and phrases from the Nxaʔamxčín language (sometimes referred to in English as Moses, or Moses-Columbia Salish). The purpose of this database is to pull together all the materials on Nxaʔamxčín compiled by M. Dale Kinkade and Ewa Ezaykowska-Higgins, two linguists who worked closely with native speakers of the language. The goals of the project are as follows:
 
@@ -84,7 +83,7 @@ This is a database of words and phrases from the Nxaʔamxčín language (somet
 *   to serve as a source for creating a Nxaʔamxčín Dictionary in print format.
 *   to serve as a model for the role of digitization in language preservation and revitalization.
 
-# Robert Graves Diary # 
+## Robert Graves Diary  
 
 The University of Victoria digital edition of the Robert Graves has long been seen as a pioneering XML publication project. Beginning with a pilot markup project in 2001 (still used as an example for training purposes by the TEI), it evolved into a complete edition of the diaries of Robert Graves from the period 1935 to 1939 and was one of the first projects built on the now widely used eXist XML database system. A collaboration between the University of Victoria’s English department, the HCMC, and UVic Libraries (whose Special Collections holds the original manuscript), it has been widely cited and referenced as a model project in the field of Digital Humanities since its first publication in 2004. The database was shared successfully with Trinity College Dublin.
 
