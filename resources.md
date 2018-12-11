@@ -8,7 +8,7 @@ This list demonstrates that preservation has been a concern of the DH community 
 
 ## Part I: Early warnings, up to 2005
 
-Alemneh D. et al. “A Metadata Approach to Preservation of Digital Resources: The University of North Texas Libraries’ Experience.” _First Monday_ 7.8 (2002). [http://firstmonday.org/ojs/](http://firstmonday.org/ojs/index.php/fm/article/view/981/)
+Alemneh D. et al. “A Metadata Approach to Preservation of Digital Resources: The University of North Texas Libraries’ Experience.” _First Monday_ 7.8 (2002). [http://firstmonday.org/ojs/http://firstmonday.org/ojs/index.php/fm/article/view/981/](http://firstmonday.org/ojs/index.php/fm/article/view/981/)
 
 Arms, William Y. “Preservation of Scientific Serials: Three Current Examples.” _The Journal of Electronic Publishing_ 5.2 (December 1999): 47 pars. [http://quod.lib.umich.edu/j/jep/3336451.0005.202/](http://quod.lib.umich.edu/j/jep/3336451.0005.202/preservation-of-scientific-serials-three-current-examples?rgn=main;view=fulltext)
 
@@ -182,17 +182,18 @@ Venkataraman, Bina. “The Race to Preserve Disappearing Data.” _Boston Globe_
 
 Vila, Camille. The Cost of Customization: Building, Maintaining, and Sustaining DH Projects. Berkeley Digital Humanities, 23 April 2015. [http://digitalhumanities.berkeley.edu/blog/15/04/23/cost-customization-building-maintaining-and-sustaining-dh-projects](http://digitalhumanities.berkeley.edu/blog/15/04/23/cost-customization-building-maintaining-and-sustaining-dh-projects) 
 
-## Digital Humanities Contributions Emanating from Our Case Study Projects (including conference papers, marked [C] 
+## Digital Humanities Contributions Emanating from Our Case Study Projects 
+(including conference papers, marked [C])
 
-#### _The Robert Graves Diary Project_
+### _The Robert Graves Diary Project_
 
-[C] Grove-White, Elizabeth. “Authorship, Collaboration and ‘Radiant Textuality’: Reflections on Robert Graves’ Diaries and _Epilogue_ .” Robert Graves and the Art of Collaboration, Conference of the Robert Graves Society. Mallorca, Spain, July 2006.
+**[C]** Grove-White, Elizabeth. “Authorship, Collaboration and ‘Radiant Textuality’: Reflections on Robert Graves’ Diaries and _Epilogue_ .” Robert Graves and the Art of Collaboration, Conference of the Robert Graves Society. Mallorca, Spain, July 2006.
 
-**[C]** Grove-White, Elizabeth. “Developing TEI Ontologies for Diurnal Records: Robert Graves Diary Case Study.” Digital Humanities Observatory/NINEs, Summer Workshop. Royal Irish Academy, July 2009. (Led directly to the Irish partnership for the public humanities _Letters of 1916_ project. [http://dh.tcd.ie/letters1916/)](http://dh.tcd.ie/letters1916/))
+**[C]** Grove-White, Elizabeth. “Developing TEI Ontologies for Diurnal Records: Robert Graves Diary Case Study.” Digital Humanities Observatory/NINEs, Summer Workshop. Royal Irish Academy, July 2009. (Led directly to the Irish partnership for the public humanities _Letters of 1916_ project. [http://dh.tcd.ie/letters1916/](http://dh.tcd.ie/letters1916/)
 
 **[C]** Grove-White, Elizabeth. “Robert Graves’s Irish Inheritances.” Robert Graves and Ireland: A Symposium. Queen’s University of Belfast, November 2011.
 
-## _The Nxa'amxcín Database and Dictionary_
+### _The Nxa'amxcín Database and Dictionary_
 
 **[C]** Holmes, Martin, and Greg Newton. “Rescuing Old Data: Case Studies, Tools and Techniques.” Digital Humanities 2008. Oulu, Finland, June 2008. [http://www.ekl.oulu.fi/dh2008/](http://www.ekl.oulu.fi/dh2008/) Digital%20Humanities%202008%20Book%20of%20Abstracts.pdf
 
@@ -202,9 +203,11 @@ Vila, Camille. The Cost of Customization: Building, Maintaining, and Sustaining 
 
 Czaykowska-Higgins, Ewa, Martin Holmes, and Sarah Kell. “Technology in Documentation: TEI and the Nxa’amxcín Dictionary.” _Language Documentation and Conservation_ 8 (March 2014): 1-37. [http://scholarspace.manoa.hawaii.edu/bitstream/handle/10125/4604/czaykowska.pdf](http://scholarspace.manoa.hawaii.edu/bitstream/handle/10125/4604/czaykowska.pdf)
 
-## _Le Mariage sous l’Ancien Régime_
+### _Le Mariage sous l’Ancien Régime_
 
-``` Carlin, Claire. “Drawing Knowledge from Information: Early Modern Texts on the TAPoR Platform,” Text Technololgy 1 (2005): 13-20. ``` **[C]** Holmes, Martin, Claire Carlin, and Eric Haswell. “Problems with Marriage: Annotating Seventeenth-century French Engravings with TEI and SVG.” Digital Humanities 2006. Paris, 
+Carlin, Claire. “Drawing Knowledge from Information: Early Modern Texts on the TAPoR Platform,” _Text Technololgy 1_ (2005): 13-20. 
+
+**[C]** Holmes, Martin, Claire Carlin, and Eric Haswell. “Problems with Marriage: Annotating Seventeenth-century French Engravings with TEI and SVG.” Digital Humanities 2006. Paris, 
 
 France, July 2006. [http://www.allc-ach2006.colloques.paris-sorbonne.fr/DHs.pdf](http://www.allc-ach2006.colloques.paris-sorbonne.fr/DHs.pdf)
 
@@ -216,7 +219,8 @@ Holmes, Martin, and Laurent Romary. “Encoding Models for Scholarly Literature"
 
 **[C]** Holmes, Martin, and Megan Timney. “Image Markup Tool 2.0.” Digital Humanities 2011. Stanford,CA, June 2011. [http://dh2011abstracts.stanford.edu/xtf/view?docId=tei/ab-128.xml](http://dh2011abstracts.stanford.edu/xtf/view?docId=tei/ab-128.xml)
 
-## _The Map of Early Modern London_ (includes invited lectures, marked **[L])**
+### _The Map of Early Modern London_ 
+(includes invited lectures, marked [L])
 
 **[C]** Jenstad, Janelle. “Mapping Early Modern London: A Hypertext Atlas Project.” _City Limits? The European City, 1400-1900_. University of Manitoba,Winnipeg, October 2004.
 
