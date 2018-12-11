@@ -131,15 +131,18 @@ In addition to the Endings Project, Greg’s current projects include [Myths on 
 
 # Research Assistants
 
+### Emily Comeau, Researcher ###
+**Emily Comeau** recently completed her MA in Linguistics at the University of Victoria, where her research explored the role of literacy in Indigenous language revitalization and the implications of print literacy for decolonization. She also has a BA in Linguistics and International Studies from the University of Alberta. Emily has been working on the Endings Project and Le Mariage Sous L’Ancien Régime since 2017. She is also a community research assistant with NEȾOLṈEW̱ in the UVic Indigenous Education department.
+
 ### Sarah Kell, Researcher
 
 **Sarah Kell** has a BA in Linguistics and a MEd in Indigenous Language Revitalization, both from the University of Victoria. She has been co-editor of the Nxaʔamxčín Database and Dictionary since 2010. Sarah also assists UVic linguists with research on other Salish languages and consults on Indigenous language curriculum development with First Nations, school districts, and the BC Ministry of Education.
 
 ----------------
 
-### Tye Landels, Researcher
+### Tye Landels-Gruenewald, Researcher
 
-**Tye Landels** is a student at UVic studying for an English major (Honors with Distinction) and European Studies minor. He is also a past President of the English Students’ Society and the 2014 3M National Student Fellowship Recipient. As an English Honours student, Tye turned his passion for geography and urban studies to helping create the Map of Early Modern London.
+**Tye Landels-Gruenewald** was an undergraduate at UVic studying for an English major (Honors with Distinction) and European Studies minor, and then went on to take an MA at Queen's University. He is also a past President of the English Students’ Society and the 2014 3M National Student Fellowship Recipient. As an English Honours student, Tye turned his passion for geography and urban studies to helping create the Map of Early Modern London.
 
 ----------------
 
