@@ -12,8 +12,7 @@ attention to the challenges addressed in our application.
 ## Part I: Early warnings, up to 2005
 
 Alemneh D. et al. “A Metadata Approach to Preservation of Digital Resources: The University of
-North Texas Libraries’ Experience.” _First Monday_ 7.8 (2002). [http://firstmonday.org/ojs/](http://firstmonday.org/ojs/)
-index.php/fm/article/view/981/
+North Texas Libraries’ Experience.” _First Monday_ 7.8 (2002). [http://firstmonday.org/ojs/](http://firstmonday.org/ojs/index.php/fm/article/view/981/)
 
 Arms, William Y. “Preservation of Scientific Serials: Three Current Examples.” _The Journal of
 Electronic Publishing_ 5.2 (December 1999): 47 pars.
@@ -33,9 +32,7 @@ Day, Michael. “Metadata for digital preservation: an update.” _Ariadne_ 22 (
 Hedstrom, Margaret. “Digital Preservation: A Time Bomb for Digital Libraries.” _Computers and
 the Humanities_, 31 (1998): 189-202.
 
-Hedstrom, Margaret. “The Role of National Initiatives in Digital Preservation.” _RLG DigiNews_ 2.
-(October 1998): 11 pars. [http://worldcat.org/arcviewer/1/OCC/2007/08/08/0000070519/viewer/](http://worldcat.org/arcviewer/1/OCC/2007/08/08/0000070519/viewer/)
-file3571.html#feature
+Hedstrom, Margaret. “The Role of National Initiatives in Digital Preservation.” _RLG DigiNews_ 2. (October 1998): 11 pars. [http://worldcat.org/arcviewer/1/OCC/2007/08/08/0000070519/viewer/](http://worldcat.org/arcviewer/1/OCC/2007/08/08/0000070519/viewer/)
 
 Hodge, Gail M. “Best Practices for Digital Archiving: An Information Life Cycle Approach.” _D-Lib
 Magazine_ 6.1 (January 2000): 63 pars. [http://www.dlib.org/dlib/january00/01hodge.html](http://www.dlib.org/dlib/january00/01hodge.html)
@@ -86,7 +83,7 @@ Council of Canada and the National Archivist of Canada. June 2002. [http://www.s
 ## Part II: 2005 
 
 ArchiveReady.com: Website Archivability Testing Tool, 20 August 2015.
-[http://archiveready.com/](http://archiveready.com/)**
+[http://archiveready.com/](http://archiveready.com/)
 
 “Assessing Long Term Access from Short Term Digitization Projects.” University of London
 Computing Centre in _Digital Preservation Case Notes_ , 14 December 2010. Digital Preservation
@@ -95,8 +92,7 @@ Coalition (DCP). [http://www.dpconline.org/advice/case-notes](http://www.dpconli
 Ball, Alex. _Preservation and Curation in Institutional Repositories_. Bath, UK: UKOLN, 2010.
 [http://www.dcc.ac.uk/sites/default/files/documents/reports/irpc-report-v1.3.pdf](http://www.dcc.ac.uk/sites/default/files/documents/reports/irpc-report-v1.3.pdf)
 
-Beagrie et al. “Keeping Data Research Safe 2.” JISC Research Study, 31 July 2009. [http://](http://)
-[http://www.data-archive.ac.uk/media/1687/KRDS2_finalreport.pdf](http://www.data-archive.ac.uk/media/1687/KRDS2_finalreport.pdf)
+Beagrie et al. “Keeping Data Research Safe 2.” JISC Research Study, 31 July 2009. [http://www.data-archive.ac.uk/media/1687/KRDS2_finalreport.pdf](http://www.data-archive.ac.uk/media/1687/KRDS2_finalreport.pdf)
 
 Brown, Susan, P. Clements, I. Grundy, S. Ruecker, J. Antoniuk and S. Balazs. “Published Yet
 Never Done: The Tension Between Projection and Completion in Digital Humanities Research.”
@@ -160,11 +156,9 @@ Report from the JISC Preserv 2 Project_. London: JISC, 2009. [http://ie-reposito
 
 Hockx-Yu, Helen. “Digital Preservation in the Context of Institutional Repositories.” _Program: _Electronic Library and Information Systems_ 40.3 (2006): 232-243. [http://eprints.rclis.org/handle/10760/](http://eprints.rclis.org/handle/10760/)
 
-Hrynaszkiewicz, Iain. “Data Descriptors: Providing the Necessary Information to Make Data Open, Discoverable and Reusable.” Impact of Social Sciences, LSE Impact Blog, 22 October 2014.
-[http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-discoverable-nature/](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-discoverable-nature/)
+Hrynaszkiewicz, Iain. “Data Descriptors: Providing the Necessary Information to Make Data Open, Discoverable and Reusable.” Impact of Social Sciences, LSE Impact Blog, 22 October 2014. [http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-discoverable-nature/](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-discoverable-nature/)
 
-Humphrey, Chuck. _Preserving Research Data in Canada: The Long Tale of Data_ Blog,
-December 2012-present. [http://preservingresearchdataincanada.net/](http://preservingresearchdataincanada.net/)
+Humphrey, Chuck. _Preserving Research Data in Canada: The Long Tale of Data_ Blog, December 2012-present. [http://preservingresearchdataincanada.net/](http://preservingresearchdataincanada.net/)
 
 International Internet Preservation Coalition. [http://www.netpreserve.org/](http://www.netpreserve.org/)
 
@@ -180,61 +174,40 @@ Preservation.” _Digital Libraries: A Vision for the Twenty-first Century_. Ann
 Michigan Scholarly Monograph Series, 2003.
 
 Kirschenbaum, Matthew G. “Done: Finishing Projects in the Digital Humanities.” Introduction to
-special issue of _Digital Humanities Quarterly_ 3.2 (2009). [http://www.digitalhumanities.org/dhq/](http://www.digitalhumanities.org/dhq/)
-vol/3/2/000037/000037.html
+special issue of _Digital Humanities Quarterly_ 3.2 (2009). [http://www.digitalhumanities.org/dhq/vol/3/2/000037/000037.html](http://www.digitalhumanities.org/dhq/vol/3/2/000037/000037.html)
 
 Knight, Gareth, and Sheila Anderson. _SHERPA Digital Perservation: Final Report_. London:
 JISC, 2007. [http://www.jisc.ac.uk/publications/documents/sherpadpfinalreport.aspx](http://www.jisc.ac.uk/publications/documents/sherpadpfinalreport.aspx)
 
 Kretzschmar, William A. “It’s For Sale, So It Must Be Finished: Digital Projects in the Scholarly
-Publishing World.” _Digital Humanities Quarterly_ 3.2 (2009). [http://www.digitalhumanities.org/dhq/](http://www.digitalhumanities.org/dhq/)
-vol/3/2/000039/000039.html
+Publishing World.” _Digital Humanities Quarterly_ 3.2 (2009).  [http://www.digitalhumanities.org/dhq/vol/3/2/000039/000039.html](http://www.digitalhumanities.org/dhq/vol/3/2/000039/000039.html)
 
 Kretzschmar, W. Jr. and Potter W. “Library Collaboration with Large Digital Humanities Projects.”
 Literary and Linguistic Computing 24.4 (2010): 439-445.
 
 Maron, Nancy L. , Sarah Pickle, preface by Deanna Marcum. _Searching for Sustainability:
-Strategies from Eight Digitized Special Collections._ Ithaka S + R, 20 November 2013. [http://](http://)
-
-
-[http://www.sr.ithaka.org/research-publications/searching-sustainability](http://www.sr.ithaka.org/research-publications/searching-sustainability)
+Strategies from Eight Digitized Special Collections._ Ithaka S + R, 20 November 2013. [http://www.sr.ithaka.org/research-publications/searching-sustainability](http://www.sr.ithaka.org/research-publications/searching-sustainability)
 
 Maron, Nancy L. and Sarah Pickle. _Sustaining the Digital Humanities_. Ithaka S + R, 18 June
 
 2014. [http://www.sr.ithaka.org/research-publications/sustaining-digital-humanities](http://www.sr.ithaka.org/research-publications/sustaining-digital-humanities)
 
 Maron , Nancy L, Jason Yun and Sarah Pickle. _Sustaining our Digital Future: Institutional
-Strategies for Digital Content_. JISC, Strategic Content Alliance and Ithaka S + R. January 29,
-
-2013. [http://www.sr.ithaka.org/research-publications/sustaining-our-digital-future](http://www.sr.ithaka.org/research-publications/sustaining-our-digital-future)
+Strategies for Digital Content_. JISC, Strategic Content Alliance and Ithaka S + R. January 29, 2013. [http://www.sr.ithaka.org/research-publications/sustaining-our-digital-future](http://www.sr.ithaka.org/research-publications/sustaining-our-digital-future)
 
 Molloy, L. “Oh, the Humanities! A Discussion about Research Data Management for the Arts and
-Humanities Disciplines.” In: JISC MRD - _Evidence Gathering_ 2011.
-[http://mrdevidence.jiscinvolve.org/wp/2011/12/16/oh-the-humanities-a-discussion-about-](http://mrdevidence.jiscinvolve.org/wp/2011/12/16/oh-the-humanities-a-discussion-about-)
-research-data-management-for-the-arts-and-humanities-disciplines/
+Humanities Disciplines.” In: JISC MRD - _Evidence Gathering_ 2011. [http://mrdevidence.jiscinvolve.org/wp/2011/12/16/oh-the-humanities-a-discussion-about-](http://mrdevidence.jiscinvolve.org/wp/2011/12/16/oh-the-humanities-a-discussion-about-research-data-management-for-the-arts-and-humanities-disciplines/)
 
-**Munoz, Trevor. “Stewarding Digital Humanities Work on the Web at MITH.” Maryland
-Institute for Technology in the Humanities, 15 June 2015.
-[http://mith.umd.edu/stewarding-digital-humanities-work-on-the-web-at-mith/](http://mith.umd.edu/stewarding-digital-humanities-work-on-the-web-at-mith/)**
+Munoz, Trevor. “Stewarding Digital Humanities Work on the Web at MITH.” Maryland Institute for Technology in the Humanities, 15 June 2015. [http://mith.umd.edu/stewarding-digital-humanities-work-on-the-web-at-mith/](http://mith.umd.edu/stewarding-digital-humanities-work-on-the-web-at-mith/)
 
-Nowiskie, Bethany and Dot Porter. “The Graceful Degradation Survey: Managing Digital
-Humanities Projects Through Times of Transition and Decline.” _Digital Humanities_ conference
-2010, King’s College London. [http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/](http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/)
-papers/html/ab-722.html
+Nowiskie, Bethany and Dot Porter. “The Graceful Degradation Survey: Managing Digital Humanities Projects Through Times of Transition and Decline.” _Digital Humanities_ conference 2010, King’s College London. [http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-722.html](http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-722.html)
 
-Nowviskie, Bethany. “Digital Humanities in the Anthropocene.” Keynote address, Digital
-Humanities conference, Lausanne, Switzerland, 9 July 2014. Available at [http://nowviskie.org/](http://nowviskie.org/)
-2014/anthropocene/
+Nowviskie, Bethany. “Digital Humanities in the Anthropocene.” Keynote address, Digital Humanities conference, Lausanne, Switzerland, 9 July 2014. Available at [http://nowviskie.org/2014/anthropocene/](http://nowviskie.org/2014/anthropocene/) 
 
-Palmer, Carole L., Nicholas M. Weber, Trevor Munoz and Allen H. Renear. “Foundations of Data
-Curation: The Pedagogy and Practice of ‘Purposeful Work’ with Research Data.” _Archive
-Journal_ 3 (Summer 2013). [http://www.archivejournal.net/issue/3/archives-remixed/foundations-](http://www.archivejournal.net/issue/3/archives-remixed/foundations-)
-of-data-curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/
+Palmer, Carole L., Nicholas M. Weber, Trevor Munoz and Allen H. Renear. “Foundations of Data Curation: The Pedagogy and Practice of ‘Purposeful Work’ with Research Data.” _Archive Journal_ 3 (Summer 2013). [http://www.archivejournal.net/issue/3/archives-remixed/foundations-of-data-curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/](http://www.archivejournal.net/issue/3/archives-remixed/foundations-of-data-curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/)
 
 Pitti, Daniel. “Designing Sustainable Projects and Publications.” In _A Companion to Digital
-Humanities._ Susan Schreibman, Ray Siemens and John Unsworth (eds.). Oxford: Blackwell,
-
-2004. [http://digitalhumanities.org/companion/](http://digitalhumanities.org/companion/)
+Humanities._ Susan Schreibman, Ray Siemens and John Unsworth (eds.). Oxford: Blackwell, 2004. [http://digitalhumanities.org/companion/](http://digitalhumanities.org/companion/)
 
 Prieto, Adolfo G. “From Conceptual to Perceptual Reality: Trust in Digital Repositories.” _Library
 Review_ 58.8 (2009): 593-606.
@@ -243,108 +216,75 @@ Research Data Canada, Research Data Strategy Working Group. _Stewardship of Rese
 Data in Canada: A Gap Analysis_. 2008. [http://datalib.library.ualberta.ca/data/GapAnalysis.pdf](http://datalib.library.ualberta.ca/data/GapAnalysis.pdf)
 
 Rieger, Oya and Mickey Casad. “Interactive Digital Media Art Survey: Key Findings and
-Observations.” Digital Scholarship and Preservation Services Press. Blog post, July 30 2014.
+Observations.” Digital Scholarship and Preservation Services Press. Blog post, July 30 2014. [http://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and-
+observations/](http://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and-
+observations/)
 
-
-[http://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and-](http://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and-)
-observations/
-
-Rockwell, Geoffrey, Shawn Da, Joyce Yu and Maureen Engel. “Burying Dead Projects:
-Depositing the Globalization Compendium.” _Digital Humanities Quarterly_ 8.2 (2014).
-[http://digitalhumanities.org:8081/dhq/vol/8/2/000179/000179.html](http://digitalhumanities.org:8081/dhq/vol/8/2/000179/000179.html)
+Rockwell, Geoffrey, Shawn Da, Joyce Yu and Maureen Engel. “Burying Dead Projects: Depositing the Globalization Compendium.” _Digital Humanities Quarterly_ 8.2 (2014). [http://digitalhumanities.org:8081/dhq/vol/8/2/000179/000179.html](http://digitalhumanities.org:8081/dhq/vol/8/2/000179/000179.html)
 
 Rumsey, Sally, and Ben O'Steen. “OAI-ORE, PRESERV2 and Digital Preservation.” _Ariadne_ , no.
 57 (2008). [http://www.ariadne.ac.uk/issue57/rumsey-osteen/](http://www.ariadne.ac.uk/issue57/rumsey-osteen/)
 
-**Saachi, Simone. “What Do We Mean by ‘Preserving Digital Information’? Towards Sound
-Conceptual Foundations for Digital Stewardship.” PhD thesis, University of Illinois at
-Urbana-Champaign, 2015. Columbia University Academic Commons. [http://](http://)
-academiccommons.columbia.edu/catalog/ac:**
+Saachi, Simone. “What Do We Mean by ‘Preserving Digital Information’? Towards Sound Conceptual Foundations for Digital Stewardship.” PhD thesis, University of Illinois at Urbana-Champaign, 2015. Columbia University Academic Commons. 
+academiccommons.columbia.edu/catalog/a
 
 Sahle, Patrick, Simone Kronenwett and J. Blumtritt. “Sustainability?! Four Paradigms for
-Humanities Data Centers.” _Digital Humanities_ conference 2014, Lausanne, Switzerland. [http://](http://)
-dharchive.org/paper/DH2014/Poster-285.xml
+Humanities Data Centers.” _Digital Humanities_ conference 2014, Lausanne, Switzerland. [http://dharchive.org/paper/DH2014/Poster-285.xml](http://dharchive.org/paper/DH2014/Poster-285.xml)
 
-Sewell, David. “Large-Scale Humanities Computing Projects: Snakes Eating Tails, or Every End
-is a New Beginning?” _Digital Humanities Quarterly_ 3.2 (2009). [http://www.digitalhumanities.org/](http://www.digitalhumanities.org/)
-dhq/vol/3/2/000039/000039.html
+Sewell, David. “Large-Scale Humanities Computing Projects: Snakes Eating Tails, or Every End is a New Beginning?” _Digital Humanities Quarterly_ 3.2 (2009). [http://www.digitalhumanities.org/dhq/vol/3/2/000039/000039.html](http://www.digitalhumanities.org/dhq/vol/3/2/000039/000039.html)
 
-Siemens, Lynne. (ed.). _Issues in Large Project Planning and Management_. Digital Humanities
-Summer Institute. Victoria (2009).
+Siemens, Lynne. (ed.). _Issues in Large Project Planning and Management_. Digital Humanities Summer Institute. Victoria (2009).
 
-Sinclair, Stéfan and Geoffrey Rockwell. “Towards an Archaeology of Text Analysis Tools.”
-Conference paper, Digital Humanities conference, Lausanne, Switzerland, July 2014. https://
-dh2014.files.wordpress.com/2014/07/dh2014_abstracts_proceedings_07-11.pdf
+Sinclair, Stéfan and Geoffrey Rockwell. “Towards an Archaeology of Text Analysis Tools.” Conference paper, Digital Humanities conference, Lausanne, Switzerland, July 2014. [https://dh2014.files.wordpress.com/2014/07/dh2014_abstracts_proceedings_07-11.pdf](https://dh2014.files.wordpress.com/2014/07/dh2014_abstracts_proceedings_07-11.pdf)
 
-Smith, MacKenzie. “Exploring Variety in Digital Collections and the Implications for Digital
-Preservation.” _Library Trends_ 54.1 (2005): 6-15. [http://hdl.handle.net/1721.1/](http://hdl.handle.net/1721.1/)
+Smith, MacKenzie. “Exploring Variety in Digital Collections and the Implications for Digital Preservation.” _Library Trends_ 54.1 (2005): 6-15. [http://hdl.handle.net/1721.1/](http://hdl.handle.net/1721.1/)
 
-**Social Sciences and Humanities Research Council.** **_Draft Tri-Agency Statement of
-Principles on Digital Data Management._** **20 July 2015. [http://www.science.gc.ca/](http://www.science.gc.ca/)
-default.asp?lang=En&n=547652FB-**
+Social Sciences and Humanities Research Council. _Draft Tri-Agency Statement of
+Principles on Digital Data Management._ 20 July 2015. [http://www.science.gc.ca/default.asp?lang=En&n=547652FB](http://www.science.gc.ca/default.asp?lang=En&n=547652FB)
 
-Social Sciences and Humanities Research Council. Image, Text, Sound, Technology Program.
-SSHRC Awards Search Engine (1998-2013). [http://www.outil.ost.uqam.ca/CRSH/RechProj.aspx](http://www.outil.ost.uqam.ca/CRSH/RechProj.aspx)
+Social Sciences and Humanities Research Council. Image, Text, Sound, Technology Program. SSHRC Awards Search Engine (1998-2013). [http://www.outil.ost.uqam.ca/CRSH/RechProj.aspx](http://www.outil.ost.uqam.ca/CRSH/RechProj.aspx)
 
 Social Sciences and Humanities Research Council. _Reports on Plans and Priorities_ , 2013-
-Part III. 6 September 2013.
-[http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/rpp/2013-2014/rpp-eng.aspx](http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/rpp/2013-2014/rpp-eng.aspx)
-
+Part III. 6 September 2013. [http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/rpp/2013-2014/rpp-eng.aspx](http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/rpp/2013-2014/rpp-eng.aspx)
 
 Social Sciences and Humanities Research Council, _et al_. _Capitalizing on Big Data: Toward a
-Policy Framework for Advancing Digital Scholarship in Canada._ 16 October 2013. [http://](http://)
-[http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/digital_scholarship_consultation_e.pdf](http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/digital_scholarship_consultation_e.pdf)
+Policy Framework for Advancing Digital Scholarship in Canada._ 16 October 2013. [http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/digital_scholarship_consultation_e.pdf](http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/digital_scholarship_consultation_e.pdf)
 
-Social Sciences and Humanities Research Council. _Research Data Archiving Policy_. 4 April
-
-2014. [http://www.sshrc-crsh.gc.ca/about-au_sujet/policies-politiques/statements-enonces/edata-](http://www.sshrc-crsh.gc.ca/about-au_sujet/policies-politiques/statements-enonces/edata-)
-donnees_electroniques-eng.aspx
+Social Sciences and Humanities Research Council. _Research Data Archiving Policy_. 4 April 2014. [http://www.sshrc-crsh.gc.ca/about-au_sujet/policies-politiques/statements-enonces/edata-](http://www.sshrc-crsh.gc.ca/about-au_sujet/policies-politiques/statements-enonces/edata-donnees_electroniques-eng.aspx)
 
 _Sustainable Economics for a Digital Planet: Ensuring Long-Term Access to Digital Information_.
-Final Report of the Blue Ribbon Task Force on Sustainable Digital Preservation and Access,
+Final Report of the Blue Ribbon Task Force on Sustainable Digital Preservation and Access, 2010. [http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf](http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf)
 
-2010. [http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf](http://brtf.sdsc.edu/biblio/BRTF_Final_Report.pdf)
+TAPAS Project (Text Encoding Initiative _Archiving Publishing and Access Service). (Launch planned Fall 2014._ [http://tapasproject.org/](http://tapasproject.org/)
 
-TAPAS Project (Text Encoding Initiative _Archiving Publishing and Access Service). (Launch
-planned Fall 2014._ [http://tapasproject.org/](http://tapasproject.org/)
-
-Thaller, M. et al. “DA-NRW: A Distributed Architecture for Long-Term Preservation.” _Proceedings_
-
-_of the 1st International Workshop on Semantic Digital Archives_. 2011.
-[http://ceur-ws.org/Vol-801/paper13.pdf](http://ceur-ws.org/Vol-801/paper13.pdf)
+Thaller, M. et al. “DA-NRW: A Distributed Architecture for Long-Term Preservation.” _Proceedings of the 1st International Workshop on Semantic Digital Archives_. 2011. [http://ceur-ws.org/Vol-801/paper13.pdf](http://ceur-ws.org/Vol-801/paper13.pdf)
 
 _UK Data Archive_. 2002-2014. [http://www.data-archive.ac.uk/](http://www.data-archive.ac.uk/)
 
 Van den Eyden, V. “Data Management Practices in the Social Sciences.” Colchester: UK Data
-Archive Report, 2010. [http://www.data-archive.ac.uk/media/203597/](http://www.data-archive.ac.uk/media/203597/)
-datamanagement_socialsciences.pdf
+Archive Report, 2010. [http://www.data-archive.ac.uk/media/203597/](http://www.data-archive.ac.uk/media/203597/datamanagement_socialsciences.pdf)
 
 Van den Eynden, V., L. Corti and M. Woollard et al. “Managing and Sharing Data 2011: Best
 Practice for Researchers.” Colchester: UK Data Archive Report, 2011.
 [http://www.data-archive.ac.uk/media/2894/managingsharing.pdf](http://www.data-archive.ac.uk/media/2894/managingsharing.pdf)
 
-**Venkataraman, Bina. “The Race to Preserve Disappearing Data.”** **_Boston Globe_** **17 May**
-
-**2015. https://www.bostonglobe.com/ideas/2015/05/16/the-race-preserve-disappearing-
+Venkataraman, Bina. “The Race to Preserve Disappearing Data.” _Boston Globe_ 17 May 2015. https://www.bostonglobe.com/ideas/2015/05/16/the-race-preserve-disappearing-
 data/0KPHAx5iK6jaLIvWQqIl4O/story.html** [Elizabeth tweeted this article when it came out in
 May. Not very scholarly, but some excellent quotations, such as "Digital preservation is
 essentially a hot potato problem, where everyone wants to pass responsibility
 onward" (Francine Berman, chair of the Research Data Alliance and professor of computer
 science at Rensselaer Polytechnic Institute).]
 
-**Vila, Camille. The Cost of Customization: Building, Maintaining, and Sustaining DH
-Projects. Berkeley Digital Humanities, 23 April 2015. [http://digitalhumanities.berkeley.edu/](http://digitalhumanities.berkeley.edu/)
-blog/15/04/23/cost-customization-building-maintaining-and-sustaining-dh-projects**
-
-**Digital Humanities Contributions Emanating from Our Case Study Projects (including
-conference papers, marked [C]**
+Vila, Camille. The Cost of Customization: Building, Maintaining, and Sustaining DH
+Projects. Berkeley Digital Humanities, 23 April 2015. [http://digitalhumanities.berkeley.edu/blog/15/04/23/cost-customization-building-maintaining-and-sustaining-dh-projects](http://digitalhumanities.berkeley.edu/blog/15/04/23/cost-customization-building-maintaining-and-sustaining-dh-projects)
 
 
-**_The Robert Graves Diary Project_**
+## Digital Humanities Contributions Emanating from Our Case Study Projects (including conference papers, marked [C]
 
-**[C]** Grove-White, Elizabeth. “Authorship, Collaboration and ‘Radiant Textuality’: Reflections on
-Robert Graves’ Diaries and _Epilogue_ .” Robert Graves and the Art of Collaboration, Conference
-of the Robert Graves Society. Mallorca, Spain, July 2006.
+
+####_The Robert Graves Diary Project_
+
+[C] Grove-White, Elizabeth. “Authorship, Collaboration and ‘Radiant Textuality’: Reflections on Robert Graves’ Diaries and _Epilogue_ .” Robert Graves and the Art of Collaboration, Conference of the Robert Graves Society. Mallorca, Spain, July 2006.
 
 **[C]** Grove-White, Elizabeth. “Developing TEI Ontologies for Diurnal Records: Robert Graves
 Diary Case Study.” Digital Humanities Observatory/NINEs, Summer Workshop. Royal Irish
