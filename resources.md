@@ -4,11 +4,12 @@ title: Resources
 subtitle: Building Sustainable Digital Humanities Projects
 ---
 
-**This list demonstrates that preservation has been a concern of the DH community since the late
+This list demonstrates that preservation has been a concern of the DH community since the late
 1990s. We present the list in two parts in order to demonstrate our awareness of the increasing
-attention to the challenges addressed in our application.**
+attention to the challenges addressed in our application.
 
-**Part I: Early warnings, up to 2005.**
+
+## Part I: Early warnings, up to 2005
 
 Alemneh D. et al. “A Metadata Approach to Preservation of Digital Resources: The University of
 North Texas Libraries’ Experience.” _First Monday_ 7.8 (2002). [http://firstmonday.org/ojs/](http://firstmonday.org/ojs/)
@@ -16,8 +17,7 @@ index.php/fm/article/view/981/
 
 Arms, William Y. “Preservation of Scientific Serials: Three Current Examples.” _The Journal of
 Electronic Publishing_ 5.2 (December 1999): 47 pars.
-[http://quod.lib.umich.edu/j/jep/3336451.0005.202/--preservation-of-scientific-serials-](http://quod.lib.umich.edu/j/jep/3336451.0005.202/--preservation-of-scientific-serials-)
-three-current-examples?rgn=main;view=fulltext
+[http://quod.lib.umich.edu/j/jep/3336451.0005.202/](http://quod.lib.umich.edu/j/jep/3336451.0005.202/--preservation-of-scientific-serials-three-current-examples?rgn=main;view=fulltext)
 
 Bearman, David. “Reality and Chimeras in the Preservation of Electronic Records.” _D-Lib
 Magazine_ 5.4 (April 1999): 15 pars.
@@ -30,8 +30,8 @@ Bullock, Alison. _Preservation of Digital Information: Issues and Current Status
 Day, Michael. “Metadata for digital preservation: an update.” _Ariadne_ 22 (Dec 1999): 39 pars.
 [http://www.ariadne.ac.uk/issue22/metadata/](http://www.ariadne.ac.uk/issue22/metadata/)
 
-Hedstrom, Margaret. “Digital Preservation: A Time Bomb for Digital Libraries.” Computers and
-the Humanities, 31 (1998): 189-202.
+Hedstrom, Margaret. “Digital Preservation: A Time Bomb for Digital Libraries.” _Computers and
+the Humanities_, 31 (1998): 189-202.
 
 Hedstrom, Margaret. “The Role of National Initiatives in Digital Preservation.” _RLG DigiNews_ 2.
 (October 1998): 11 pars. [http://worldcat.org/arcviewer/1/OCC/2007/08/08/0000070519/viewer/](http://worldcat.org/arcviewer/1/OCC/2007/08/08/0000070519/viewer/)
@@ -42,23 +42,19 @@ Magazine_ 6.1 (January 2000): 63 pars. [http://www.dlib.org/dlib/january00/01hod
 
 Hodge, Gail and B. C. Carroll. “Digital Electronic Archiving: the State of the Art and the State of
 the Practice.” Executive summary of _A Report Sponsored by International Council for Scientific
-and Technical Information_. Information Policy Committee and CENDI. Information International
-
-
-Associates Inc. 26 April 1999. [http://www.icsti.org/IMG/pdf/digarch99_Exec-2.pdf](http://www.icsti.org/IMG/pdf/digarch99_Exec-2.pdf)
+and Technical Information_. Information Policy Committee and CENDI. Information International Associates Inc. 26 April 1999. [http://www.icsti.org/IMG/pdf/digarch99_Exec-2.pdf](http://www.icsti.org/IMG/pdf/digarch99_Exec-2.pdf)
 
 Landow, G. P. and Delany, P. “Hypertext, Hypermedia and Literary Studies: The State of the
-Art.” In Paul Delany and George P. Landow (eds.), Hypermedia and Literary Studies.
+Art.” In Paul Delany and George P. Landow (eds.), _Hypermedia and Literary Studies_.
 Cambridge, MA: MIT Press, 1991. 3–50.
 
 Matthews, G. A. Poulter, and E. Blagg. “Preservation of Digital Materials: Policy and Strategy for
-the UK.” JISC/NPO Studies on the Preservation of Electronic Materials. British Library Research
-and Innovation Report 41. British Library Research and Innovation Centre, 1997.
+the UK.” JISC/NPO Studies on the Preservation of Electronic Materials. _British Library Research
+and Innovation Report_ 41. British Library Research and Innovation Centre, 1997.
 [http://www.ukoln.ac.uk/services/papers/bl/blri041/digpres.html](http://www.ukoln.ac.uk/services/papers/bl/blri041/digpres.html)
 
 Philips, Margaret. “Ensuring Long-Term Access to Online Publications.” _Journal of Electronic
-Publishing_ 4.4 (June, 1999): 48 pars. [http://quod.lib.umich.edu/j/jep/3336451.0004.405/--](http://quod.lib.umich.edu/j/jep/3336451.0004.405/--)
-national-library-of-australia-ensuring-long-term-access?rgn=main;view=fulltext
+Publishing_ 4.4 (June, 1999): 48 pars. [http://quod.lib.umich.edu/j/jep/3336451.0004.405/](http://quod.lib.umich.edu/j/jep/3336451.0004.405/)
 
 Rothenberg, Jeff. “Avoiding Technological Quicksand: Finding a Viable Technical Foundation for
 Digital Preservation.” A Report to the Council on Library and Information Resources.
@@ -66,12 +62,10 @@ Commission on Preservation and Access, January 1999.
 [http://www.clir.org/pubs/reports/rothenberg/contents.html](http://www.clir.org/pubs/reports/rothenberg/contents.html)
 
 Rothenberg, J. and T. Bikson. “Carrying Authentic, Understandable and Usable Digital Records
-Through Time.” Report to the Dutch National Archives and Ministry of the Interior. RAND-
-Europe, 6 Aug 1999. [http://www.rand.org/pubs/rand_europe/RE99-016.html](http://www.rand.org/pubs/rand_europe/RE99-016.html)
+Through Time.” Report to the Dutch National Archives and Ministry of the Interior. _RAND-
+Europe_, 6 Aug 1999. [http://www.rand.org/pubs/rand_europe/RE99-016.html](http://www.rand.org/pubs/rand_europe/RE99-016.html)
 
-Rothenberg, Jeff. “An Experiment in Using Emulation to Preserve Digital Publications.” The
-Koninklijke Bibliotheek. RAND-Europe The Koninklijke Bibliotheek Den Haag, April 2000. [http://](http://)
-[http://www.kb.nl/sites/default/files/docs/NEDLIBemulation.pdf](http://www.kb.nl/sites/default/files/docs/NEDLIBemulation.pdf)
+Rothenberg, Jeff. “An Experiment in Using Emulation to Preserve Digital Publications.” The Koninklijke Bibliotheek. RAND-Europe The Koninklijke Bibliotheek Den Haag, April 2000. [http://www.kb.nl/sites/default/files/docs/NEDLIBemulation.pdf](http://www.kb.nl/sites/default/files/docs/NEDLIBemulation.pdf)
 
 Siemens, Raymond (Project Coordinator), Michael Best, Alan Burk, Elizabeth Grove-White,
 Jean-Claude Guédon, James Kerr, Andy Pope, Geoffrey Rockwell, Lynne Siemens. _The
@@ -82,20 +76,16 @@ Smith, Abbey. “Preservation in the Future Tense.” _CLIR Issues_ 3 (May/June 
 [http://www.clir.org/pubs/issues/issues03.html](http://www.clir.org/pubs/issues/issues03.html)
 
 Social Sciences and Humanities Research Council. _National Research Data Archive
-Consultation Phase One: Needs Assessment Report_. May 2001. [http://www.sshrc-crsh.gc.ca/](http://www.sshrc-crsh.gc.ca/)
-about-au_sujet/publications/da_phase1_e.pdf
+Consultation Phase One: Needs Assessment Report_. May 2001. [http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_phase1_e.pdf](http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_phase1_e.pdf)
 
 Social Sciences and Humanities Research Council. _Final Report. National Data Archive
 Consultation. Building Infrastructure for Access to and Preservation of Research Data_.
 Submitted by the NDAC Working Group to the Social Sciences and Humanities Research
-Council of Canada and the National Archivist of Canada. June 2002.
+Council of Canada and the National Archivist of Canada. June 2002. [http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_finalreport_e.pdf](http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_finalreport_e.pdf)
 
+## Part II: 2005 
 
-[http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_finalreport_e.pdf](http://www.sshrc-crsh.gc.ca/about-au_sujet/publications/da_finalreport_e.pdf)
-
-**Part II: 2005-**
-
-**ArchiveReady.com: Website Archivability Testing Tool, 20 August 2015.
+ArchiveReady.com: Website Archivability Testing Tool, 20 August 2015.
 [http://archiveready.com/](http://archiveready.com/)**
 
 “Assessing Long Term Access from Short Term Digitization Projects.” University of London
@@ -112,10 +102,10 @@ Brown, Susan, P. Clements, I. Grundy, S. Ruecker, J. Antoniuk and S. Balazs. “
 Never Done: The Tension Between Projection and Completion in Digital Humanities Research.”
 _Digital Humanities Quarterly_ 3.2 (2009). [http://www.digitalhumanities.org/dhq/vol/3/2/](http://www.digitalhumanities.org/dhq/vol/3/2/)
 
-**Burkhardt, Marcus. “Improvements to the Usability of Software Collections Will Unlock
+Burkhardt, Marcus. “Improvements to the Usability of Software Collections Will Unlock
 the Potential of Open Digital Archives.” Impact of Social Sciences, LSE Impact Blog, 27
 May 2013. [http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/27/usability-of-software-](http://blogs.lse.ac.uk/impactofsocialsciences/2013/05/27/usability-of-software-)
-collections/**
+collections/
 
 Burrows, T. “Sharing Humanities Data for e-Research. Conceptual and Technical Issues.” In
 _Sustainable Data from Digital Research. Humanities Perspectives on Digital Scholarship.
@@ -130,16 +120,9 @@ Canadian Research Data Summit 2011. _Mapping the Data Landscape_.
 [http://longrangeplan.ca/wp-content/uploads/2010/10/Data_Summit_Report.pdf](http://longrangeplan.ca/wp-content/uploads/2010/10/Data_Summit_Report.pdf)
 
 Chawner, Brenda, and Rowena Cullen. “Institutional Repositories in New Zealand: Comparing
-Institutional Strategies for Digital Preservation and Discovery.” ResearchArchive @ Victoria,
+Institutional Strategies for Digital Preservation and Discovery.” ResearchArchive @ Victoria, 2008. [http://researcharchive.vuw.ac.nz/handle/10063/](http://researcharchive.vuw.ac.nz/handle/10063/)
 
-2008. [http://researcharchive.vuw.ac.nz/handle/10063/](http://researcharchive.vuw.ac.nz/handle/10063/)
-
-Conway, P. “Preservation in the Age of Google: Digitization, Digital Preservation, and
-
-
-Dilemmas.” The Library Quarterly 80.1 (2010): 61-79.
-
-_Data Center for the Humanities_ (DCH). June 2013. [http://www.dch.uni-koeln.de](http://www.dch.uni-koeln.de)
+Conway, P. “Preservation in the Age of Google: Digitization, Digital Preservation, and Dilemmas.” The Library Quarterly 80.1 (2010): 61-79. _Data Center for the Humanities_ (DCH). June 2013. [http://www.dch.uni-koeln.de](http://www.dch.uni-koeln.de)
 
 Davis, Corey. “Archiving the Web: A Case Study from the University of Victoria. _Code{4}Lib
 Journal_ , 26. (October 2014). [http://journal.code4lib.org/articles/](http://journal.code4lib.org/articles/)
@@ -148,8 +131,7 @@ De Leeuwe, Just, and Mirella Van der Velde. “From Repository to Eternity: From
 Repository to DARE—The Developments of OAI in the Netherlands.” _Serials: The Journal for
 the Serials Community_ 19, no. 2 (2006): 156-160.
 
-_Digital Preservation Handbook._ Digital Preservation Coalition (DCP). 2012. [http://](http://)
-[http://www.dpconline.org/advice/preservationhandbook](http://www.dpconline.org/advice/preservationhandbook)
+_Digital Preservation Handbook._ Digital Preservation Coalition (DCP). 2012. [http://www.dpconline.org/advice/preservationhandbook](http://www.dpconline.org/advice/preservationhandbook)
 
 _Digital Preservation Management: Implementing Short-term Strategies for Long-term Problems._
 Workshop, Cornell University Library, 2003-2007.
@@ -163,13 +145,9 @@ Interdisciplinary Scientific Data as a Trustworthy Digital Repository.” _Journ
 Information_ 11.1 (2010). [http://journals.tdl.org/jodi/article/view/](http://journals.tdl.org/jodi/article/view/)
 
 Durno, John, and Jerry Trofimchuk. "Digital Forensics on a Shoestring: A Case Study from the
-University of Victoria." _Cod{4}Lib Journal_ 27 (January 2015). [http://journal.code4lib.org/articles/](http://journal.code4lib.org/articles/)
-10279
+University of Victoria." _Cod{4}Lib Journal_ 27 (January 2015). [http://journal.code4lib.org/articles/10279](http://journal.code4lib.org/articles/10279)
 
-**Goethals, Andrea et al. “Facing the Challenge of Web Archives Preservation
-Collaboratively: The Role and Work of the IIPC Preservation Working Group.”** **_D-Lib
-Magazine_** **21.5-6 (May/June 2015). [http://www.dlib.org/dlib/may15/goethals/](http://www.dlib.org/dlib/may15/goethals/)
-05goethals.html**
+Goethals, Andrea et al. “Facing the Challenge of Web Archives Preservation Collaboratively: The Role and Work of the IIPC Preservation Working Group.” _D-Lib Magazine_ 21.5-6 (May/June 2015). [http://www.dlib.org/dlib/may15/goethals/05goethals.html](http://www.dlib.org/dlib/may15/goethals/05goethals.html)
 
 Green, Ann, Stuart Macdonald and Robin Rice. _Policy-making for Research Data in
 Repositories: A Guide_. 2009. [http://www.coar-repositories.org/files/guide.pdf](http://www.coar-repositories.org/files/guide.pdf)
@@ -180,33 +158,22 @@ Grotke, Abbie. “Web Archiving at the Library of Congress.” LOC website, 2 Au
 Hitchcock, Steve, David Tarrant, and L. Carr. _Towards Repository Preservation Services: Final
 Report from the JISC Preserv 2 Project_. London: JISC, 2009. [http://ie-repository.jisc.ac.uk/381/](http://ie-repository.jisc.ac.uk/381/)
 
-Hockx-Yu, Helen. “Digital Preservation in the Context of Institutional Repositories.” _Program:_
+Hockx-Yu, Helen. “Digital Preservation in the Context of Institutional Repositories.” _Program: _Electronic Library and Information Systems_ 40.3 (2006): 232-243. [http://eprints.rclis.org/handle/10760/](http://eprints.rclis.org/handle/10760/)
 
-
-_Electronic Library and Information Systems_ 40.3 (2006): 232-243. [http://eprints.rclis.org/handle/](http://eprints.rclis.org/handle/)
-10760/
-
-**Hrynaszkiewicz, Iain. “Data Descriptors: Providing the Necessary Information to Make
-Data Open, Discoverable and Reusable.” Impact of Social Sciences, LSE Impact Blog, 22
-October 2014.
-[http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-)
-discoverable-nature/**
+Hrynaszkiewicz, Iain. “Data Descriptors: Providing the Necessary Information to Make Data Open, Discoverable and Reusable.” Impact of Social Sciences, LSE Impact Blog, 22 October 2014.
+[http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-discoverable-nature/](http://blogs.lse.ac.uk/impactofsocialsciences/2014/10/22/data-descriptors-open-discoverable-nature/)
 
 Humphrey, Chuck. _Preserving Research Data in Canada: The Long Tale of Data_ Blog,
 December 2012-present. [http://preservingresearchdataincanada.net/](http://preservingresearchdataincanada.net/)
 
-**International Internet Preservation Coalition. [http://www.netpreserve.org/](http://www.netpreserve.org/)** [Should mention
-in detailed description.]
+International Internet Preservation Coalition. [http://www.netpreserve.org/](http://www.netpreserve.org/)
 
 InterPARES 3 Team Canada (International Research on Permanent Authentic Records in
 Electronic Systems). _Case Study 09: Alma Mater Society of The University of British Columbia:
-Policies and Procedures for Web Site Preservation_. May 2013. [http://www.interpares.org/ip3/](http://www.interpares.org/ip3/)
-display_file.cfm?doc=ip3_canada_cs09_wks02_action_25_v1-3.pdf
+Policies and Procedures for Web Site Preservation_. May 2013. [http://www.interpares.org/ip3/display_file.cfm?doc=ip3_canada_cs09_wks02_action_25_v1-3.pdf](http://www.interpares.org/ip3/display_file.cfm?doc=ip3_canada_cs09_wks02_action_25_v1-3.pdf)
 
 JISC. e-Science Curation Report. _Data Curation for e-Science in the UK: An Audit to Establish
-Requirements for Future Curation and Provision_. 2003.
-
-# http://www.jisc.ac.uk/uploaded_documents/e-ScienceReportFinal.pdf
+Requirements for Future Curation and Provision_. 2003. [http://www.jisc.ac.uk/uploaded_documents/e-ScienceReportFinal.pdf](http://www.jisc.ac.uk/uploaded_documents/e-ScienceReportFinal.pdf)
 
 Kenney, Anne R. and Nancy Y. McGovern. “The Five Organizational Stages of Digital
 Preservation.” _Digital Libraries: A Vision for the Twenty-first Century_. Ann Arbor: University of
