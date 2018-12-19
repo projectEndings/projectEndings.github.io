@@ -136,7 +136,7 @@ In addition to the Endings Project, Greg’s current projects include [Myths on 
 
 <br>
 
-### Research Assistants
+## Research Assistants
 
 ### Emily Comeau, Researcher 
 **Emily Comeau** recently completed her MA in Linguistics at the University of Victoria, where her research explored the role of literacy in Indigenous language revitalization and the implications of print literacy for decolonization. She also has a BA in Linguistics and International Studies from the University of Alberta. Emily has been working on the Endings Project and Le Mariage Sous L’Ancien Régime since 2017. She is also a community research assistant with NEȾOLṈEW̱ in the UVic Indigenous Education department.
