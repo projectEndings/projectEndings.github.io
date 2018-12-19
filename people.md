@@ -4,8 +4,6 @@ title: People
 subtitle: Building Sustainable Digital Humanities Projects
 ---
 
-<br>
-
 [Humanities Faculty](#endings-humanities-faculty) | [Librarians](#librarians) | [Programmers](#programmers) | [Research Assistants](#research-assistants)
 
 
@@ -15,7 +13,7 @@ Over the years, many colleagues and students had a hand in building these variou
 <br>
 
 ## Humanities Faculty
-<br>
+
 ### Claire Carlin
 #### Le Mariage sous l’Ancien Régime (Marriage in Early Modern France)
 
