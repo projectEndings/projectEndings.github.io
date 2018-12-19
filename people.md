@@ -6,6 +6,8 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 
 
+
+
 [Humanities Faculty](#endings-humanities-faculty) | [Librarians](#librarians) | [Programmers](#programmers) | [Research Assistants](#research-assistants)
 
 
