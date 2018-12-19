@@ -3,18 +3,21 @@ layout: page
 title: People
 subtitle: Building Sustainable Digital Humanities Projects
 ---
-//
+
+<br><br>
 
 [Humanities Faculty](#endings-humanities-faculty) | [Librarians](#librarians) | [Programmers](#programmers) | [Research Assistants](#research-assistants)
-//
+
+
+<br><br>
 Over the years, many colleagues and students had a hand in building these various projects. Each day we gratefully remember their contributions as we build on their work for The Endings Project.
 
 
 
-### Humanities Faculty ##
+### Humanities Faculty
 
-#### Claire Carlin ###
-##### Le Mariage sous l’Ancien Régime (Marriage in Early Modern France) ####
+#### Claire Carlin
+##### Le Mariage sous l’Ancien Régime (Marriage in Early Modern France)
 
 A specialist in Early Modern French studies, **Claire Carlin** (PhD, University of California) has been a faculty member at UVic from 1989-2015. Her major publications focus on the history of theatre and on representations of Early Modern marriage. Her specializations include 17th-century theatre, history of marriage in the 16th-18th centuries, digital humanities, and feminist theory.
 
