@@ -23,15 +23,22 @@ description: where dh work begins
 
 # List of links in the navigation bar
 navbar-links:
+  About Me: "aboutme"
+
+  Author's home: "http://deanattali.com"
+
+
+
+navbar-links:
   About: "about"
   Projects: "projects"
   People: "people"
-  Resources: "resources"
+  Resources:
     - Conference Papers: "papers"
     - Journal Articles: "articles"
     - Resources: "resources"
   News: "blog"
-  Contact Us: "contact" 
+  Contact: "contact" 
     
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
