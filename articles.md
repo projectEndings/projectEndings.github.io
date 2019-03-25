@@ -10,4 +10,4 @@ Czaykowska-Higgins, Ewa, et al. 2014 “Using TEI for an Endangered Language Lex
 
 Grove-White, Elizabeth. 2016. “The Graves Diary: A Controversial Mystery.” [Fronts of Modernity: The 20th-Century Collections at the University of Victoria Libraries](https://exhibits.library.uvic.ca/spotlight/library-publications/feature/fronts-of-modernity-the-20th-century-collections-at-the-university-of-victoria-libraries-edited-by-j-matthew-huculak).
 
-Holmes, Martin and Joseph Takeda. 2019. "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." _Digital Scholarship in the Humanities_, [https://doi.org/10.1093/llc/fqw048](https://doi.org/10.1093/llc/fqw048).
+Holmes, Martin and Joseph Takeda. 2019. "Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project." _Digital Scholarship in the Humanities_, [https://doi.org/10.1093/llc/fqz011](https://doi.org/10.1093/llc/fqz011).
