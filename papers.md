@@ -4,6 +4,8 @@ title: Conference Papers and Presentations
 subtitle: Building Sustainable Digital Humanities Projects
 ---
 
+* Jenstad, Janelle. Keynote Provocation. “If I were starting MoEML now...: Planning for Linked Data and Digital Preservation.” Linked Pasts III: New Voices, Old Places, Stanford University, 2017.
+
 * Arneil, Stewart, and Martin Holmes. 2017. "Archiving form and function: preserving a 2003 digital project." DPASSH Conference 2017: Digital Preservation for Social Sciences and Humanities, Brighton, UK. 14 September 2017. [Video](https://vimeo.com/239453105).
 
 <!-- Coming in April from Claire: "Humanities in the Digital Age: A Quiet Revolution," to be delivered in the Master Minds series in April, will have a lot of Endings content. -->
