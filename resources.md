@@ -4,6 +4,13 @@ title: Resources
 subtitle: Building Sustainable Digital Humanities Projects
 ---
 
+#Useful Projects
+
+* The Socio-Technical Sustainability Roadmap
+"[O]ne of the deliverables from the NEH-funded project, 'Sustaining MedArt,' that was housed from 2016-2018 in the University of Pittsburgh’s Visual Media Workshop (VMW)." It offers a project survey walkthrough to help you think about the long-term preservation of your projects. [https://sites.haa.pitt.edu/sustainabilityroadmap/](https://sites.haa.pitt.edu/sustainabilityroadmap/)
+
+#Papers & Other Publications
+
 This list demonstrates that preservation has been a concern of the DH community since the late 1990s. We present the list in two parts in order to demonstrate our awareness of the increasing attention to the challenges addressed in our application.
 
 ## Part I: Early warnings, up to 2005
