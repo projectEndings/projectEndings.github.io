@@ -13,7 +13,7 @@ We divide digital projects into five primary components:
 1. [Documentation](#documentation)
 1. [Release management](#release-management)
 
-## 1. Data
+## Data
 
 Data is the expression of the source information, knowledge, and expertise of our researchers. The following principles apply to data:
 
@@ -24,7 +24,7 @@ Data is the expression of the source information, knowledge, and expertise of ou
 1.3 Data is continually subject to validation and diagnostic analysis.
 
 
-## 2. Products 
+## Products 
 
 Products are the project output intended for end-users, typically in the form of websites or print documents. The following principles apply to products intended for the web:
 
@@ -51,7 +51,7 @@ These principles are tempered by the following concessions:
 2.10 The use of an external library may be necessary to support a specific complex function which is too complex to be coded locally (such as mapping or cryptography). Any such libraries must be open-source and widely-used, and must not themselves have dependencies.
 
 
-## 3. Processing
+## Processing
 
 Processing code is written and maintained by the project technical staff, and is also subject to version control. Processing code provides all the following functions:
 
@@ -66,14 +66,14 @@ Processing code is written and maintained by the project technical staff, and is
 For larger projects, these processes should all be triggered automatically by any change to version-controlled resources, typically running on a continuous integration server. Processing code should be open-source where possible, and have minimal dependencies, but it is not expected to have significant longevity; data and products are designed to survive, but processing code is contingent.
 
 
-## 4. Documentation
+## Documentation
 
 4.1 Data models, including field names, descriptions, and controlled values, should be clearly documented in a static document that is maintained with the data, and should also form part of the products. 
 
 4.2 All rights and intellectual property issues should be clearly documented. Where possible the Data and Products should be released under open licenses (Creative Commons, GNU, BSD, MPL).
 
 
-## 5. Release Management
+## Release Management
 
 Release management handles the public release of products. Without good release management, a project can never end gracefully; it can only falter and die. These principles apply to release management:
 
