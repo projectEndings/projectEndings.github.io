@@ -143,6 +143,8 @@ Pitti, Daniel. “Designing Sustainable Projects and Publications.” In _A Comp
 
 Prieto, Adolfo G. “From Conceptual to Perceptual Reality: Trust in Digital Repositories.” _Library Review_ 58.8 (2009): 593-606.
 
+Reed, Ashley. “Managing an Established Digital Humanities Project: Principles and Practices from the Twentieth Year of the William Blake Archive.” Digital Humanities Quarterly, vol. 008, no. 1, Apr. 2014.
+
 Research Data Canada, Research Data Strategy Working Group. _Stewardship of Research Data in Canada: A Gap Analysis_. 2008. [http://datalib.library.ualberta.ca/data/GapAnalysis.pdf](http://datalib.library.ualberta.ca/data/GapAnalysis.pdf)
 
 Rieger, Oya and Mickey Casad. “Interactive Digital Media Art Survey: Key Findings and Observations.” Digital Scholarship and Preservation Services Press. Blog post, July 30 2014. [https://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and-observations/](https://blogs.cornell.edu/dsps/2014/07/30/interactive-digital-media-art-survey-key-findings-and-observations/)
