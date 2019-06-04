@@ -31,6 +31,7 @@ navbar-links:
 
 navbar-links:
   About: "about"
+  Principles: "principles"
   Projects: "projects"
   People: "people"
   Resources:
