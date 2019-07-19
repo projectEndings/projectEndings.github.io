@@ -131,6 +131,8 @@ Maron , Nancy L, Jason Yun and Sarah Pickle. _Sustaining our Digital Future: Ins
 
 Molloy, L. “Oh, the Humanities! A Discussion about Research Data Management for the Arts and Humanities Disciplines.” In: JISC MRD - _Evidence Gathering_ 2011. [http://mrdevidence.jiscinvolve.org/wp/2011/12/16/oh-the-humanities-a-discussion-about-](http://mrdevidence.jiscinvolve.org/wp/2011/12/16/oh-the-humanities-a-discussion-about-research-data-management-for-the-arts-and-humanities-disciplines/)
 
+Morreale, Laura K. “Medieval Digital Humanities and The Rite of Spring: Thoughts on Performance and Preservation.” In: _The Digital Medieval: New Directions in Medieval History and the Digital Humanities_. Walter Prescott Webb Memorial Lectures 53, College Station: Texas A&M University Press, forthcoming. [https://osf.io/preprints/bodoarxiv/7p2t6/](https://osf.io/preprints/bodoarxiv/7p2t6/)
+
 Munoz, Trevor. “Stewarding Digital Humanities Work on the Web at MITH.” Maryland Institute for Technology in the Humanities, 15 June 2015. [http://mith.umd.edu/stewarding-digital-humanities-work-on-the-web-at-mith/](http://mith.umd.edu/stewarding-digital-humanities-work-on-the-web-at-mith/)
 
 Nowiskie, Bethany and Dot Porter. “The Graceful Degradation Survey: Managing Digital Humanities Projects Through Times of Transition and Decline.” _Digital Humanities_ conference 2010, King’s College London. [http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-722.html](http://dh2010.cch.kcl.ac.uk/academic-programme/abstracts/papers/html/ab-722.html)
