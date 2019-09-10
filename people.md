@@ -132,7 +132,7 @@ In addition to his work on the Endings project, Stewart leads a research cluster
 
 **Greg Newton** holds a B.A. (double-major) in English and History, as well as a post-degree diploma in Applied Linguistics and a Masters in Education (Educational Technology). He is responsible for developing client and server software and websites, managing hardware in the HCMC research lab, and maintaining Humanities server infrastructure in co-operation with Research Computing.
 
-In addition to the Endings Project, Greg’s current projects include [Myths on Maps](https://myths.uvic.ca/) and the [Canadian Great War](https://cgwp.uvic.ca/)
+In addition to the Endings Project, Greg’s current projects include [Myths on Maps](https://myths.uvic.ca/) and the [Canadian Great War Project](https://cgwp.uvic.ca/)
 
 <br>
 
