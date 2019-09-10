@@ -8,7 +8,7 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 * Arneil, Stewart, and Martin Holmes. 2017. "Archiving form and function: preserving a 2003 digital project." DPASSH Conference 2017: Digital Preservation for Social Sciences and Humanities, Brighton, UK. 14 September 2017. [Video](https://vimeo.com/239453105).
 
-* Arneil, Stewart, and Martin Holmes and Greg Newton. 2019. "[Project Endings: Early Impressions From Our Recent Survey On Project Longevity In DH](https://dev.clariah.nl/files/dh2019/boa/0891.html)." Digital Humanities 2019 Conference, Utrecht, Netherlands. July 10 2019.
+* Arneil, Stewart, Martin Holmes and Greg Newton. 2019. "[Project Endings: Early Impressions From Our Recent Survey On Project Longevity In DH](https://dev.clariah.nl/files/dh2019/boa/0891.html)." Digital Humanities 2019 Conference, Utrecht, Netherlands. July 10 2019.
 
 <!-- Coming in April from Claire: "Humanities in the Digital Age: A Quiet Revolution," to be delivered in the Master Minds series in April, will have a lot of Endings content. -->
 
