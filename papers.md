@@ -30,7 +30,7 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 * Holmes, Martin and Joseph Takeda. 2018. "[Why do I need four search engines?](https://conf2018.jadh.org/files/Proceedings_JADH2018.pdf#page=58)" Japanese Association for Digital Humanities Conference, Tokyo, Japan. 11 September 2018.
 
-* Holmes, Martin and Joseph Takeda. 2017. "[Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project](https://dh2017.adho.org/abstracts/140/140.pdf)." Digital Humanities 2017 Conference, Montreal, Canada. August 8 2017.
+* Holmes, Martin and Joseph Takeda. 2017. "[Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project](https://dh2017.adho.org/abstracts/140/140.pdf)." Digital Humanities 2017 Conference, Montreal, Canada. 8 August 2017.
 
 * Huculak, J. Matthew. 2018. "[The Endings Project: Concluding, Archiving, and Preserving Digital Projects for Long-Term Usability](https://github.com/projectEndings/Endings/blob/master/presentations/AfterDigitalRevolution_2018/JaillantAfterDigitalRevolution.pptx?raw=true)." After the Digital Revolution Workshop 2, London, UK. 26 January 2018.
 
