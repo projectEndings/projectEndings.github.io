@@ -4,7 +4,6 @@ title: Conference Papers and Presentations
 subtitle: Building Sustainable Digital Humanities Projects
 ---
 
-* Jenstad, Janelle. Keynote Provocation. “If I were starting MoEML now...: Planning for Linked Data and Digital Preservation.” Linked Pasts III: New Voices, Old Places, Stanford University, 2017.
 
 * Arneil, Stewart, and Martin Holmes. 2017. "Archiving form and function: preserving a 2003 digital project." DPASSH Conference 2017: Digital Preservation for Social Sciences and Humanities, Brighton, UK. 14 September 2017. [Video](https://vimeo.com/239453105).
 
@@ -39,6 +38,8 @@ subtitle: Building Sustainable Digital Humanities Projects
 * Huculak, J. Matthew. 2018. "[The Endings Project: Concluding, Archiving, and Preserving Digital Projects for Long-Term Usability](https://github.com/projectEndings/Endings/blob/master/presentations/AfterDigitalRevolution_2018/JaillantAfterDigitalRevolution.pptx?raw=true)." After the Digital Revolution Workshop 2, London, UK. 26 January 2018.
 
 * Huculak, J. Matthew and Claire Carlin. 2019. "[Stories of Loss: Fragility in the Archive](https://github.com/projectEndings/Endings/blob/master/presentations/CSDH/2019_CSDH_Presentation.pdf)." CSDH/SCHN Digital Humanities Conference 2019, Vancouver, BC, Canada. 4 June 2019.
+
+* Jenstad, Janelle. Keynote Provocation. “If I were starting MoEML now...: Planning for Linked Data and Digital Preservation.” Linked Pasts III: New Voices, Old Places, Stanford University, 2017.
 
 * Takeda, Joseph. 2018. "[Ending Your Digital Humanities Project from the Start](https://github.com/projectEndings/Endings/blob/master/presentations/UBC_DHMixer/abstract.md)." Pixelating: University of British Columbia DH Mixer. 28 June 2018.
 
