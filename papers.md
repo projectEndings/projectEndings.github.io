@@ -38,5 +38,7 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 * Huculak, J. Matthew. 2018. "[The Endings Project: Concluding, Archiving, and Preserving Digital Projects for Long-Term Usability](https://github.com/projectEndings/Endings/blob/master/presentations/AfterDigitalRevolution_2018/JaillantAfterDigitalRevolution.pptx?raw=true)." After the Digital Revolution Workshop 2, London, UK. 26 January 2018.
 
+* Huculak, J. Matthew and Claire Carlin. 2019. "[Stories of Loss: Fragility in the Archive](https://github.com/projectEndings/Endings/blob/master/presentations/CSDH/2019_CSDH_Presentation.pdf)." CSDH/SCHN Digital Humanities Conference 2019, Vancouver, BC, Canada. 4 June 2019.
+
 * Takeda, Joseph. 2018. "[Ending Your Digital Humanities Project from the Start](https://github.com/projectEndings/Endings/blob/master/presentations/UBC_DHMixer/abstract.md)." Pixelating: University of British Columbia DH Mixer. 28 June 2018.
 
