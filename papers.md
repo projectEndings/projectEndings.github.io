@@ -8,7 +8,9 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 * Arneil, Stewart, and Martin Holmes. 2017. "Archiving form and function: preserving a 2003 digital project." DPASSH Conference 2017: Digital Preservation for Social Sciences and Humanities, Brighton, UK. 14 September 2017. [Video](https://vimeo.com/239453105).
 
-* Arneil, Stewart, Martin Holmes and Greg Newton. 2019. "[Project Endings: Early Impressions From Our Recent Survey On Project Longevity In DH](https://dev.clariah.nl/files/dh2019/boa/0891.html)." Digital Humanities 2019 Conference, Utrecht, Netherlands. July 10 2019. [Slide deck](https://github.com/projectEndings/Endings/blob/master/presentations/DH_2019/DH2019_long-paper_presentation.pdf)
+* Arneil, Stewart, Martin Holmes and Greg Newton. 2019. "[Project Endings: Early Impressions From Our Recent Survey On Project Longevity In DH](https://dev.clariah.nl/files/dh2019/boa/0891.html)." Digital Humanities 2019 Conference, Utrecht, Netherlands. 10 July 2019. [Slide deck](https://github.com/projectEndings/Endings/blob/master/presentations/DH_2019/DH2019_long-paper_presentation.pdf)
+
+* Arneil, Stewart, Martin Holmes and Greg Newton. 2019. "[Clearing the Air for Maintenance and Repair: Strategies, Experiences, Full Disclosure; Paper Three: Ruthless Principles for Digital Longevity](https://dev.clariah.nl/files/dh2019/boa/0648.html)." Digital Humanities 2019 Conference, Utrecht, Netherlands. 12 July 2019. [Slide deck](https://github.com/projectEndings/Endings/blob/master/presentations/DH_2019/EndingsPanelPresentation.pdf)
 
 <!-- Coming in April from Claire: "Humanities in the Digital Age: A Quiet Revolution," to be delivered in the Master Minds series in April, will have a lot of Endings content. -->
 
@@ -29,6 +31,8 @@ subtitle: Building Sustainable Digital Humanities Projects
 * Holmes, Martin. 2017. "[Selecting Technologies for Long-Term Survival](https://github.com/projectEndings/Endings/raw/master/presentations/SHARP_2017/mdh_sharp_2017.pdf)." SHARP Conference 2017: Technologies of the Book, Victoria, BC, Canada. 10 June 2017.
 
 * Holmes, Martin and Joseph Takeda. 2018. "[Why do I need four search engines?](https://conf2018.jadh.org/files/Proceedings_JADH2018.pdf#page=58)" Japanese Association for Digital Humanities Conference, Tokyo, Japan. 11 September 2018.
+
+* Holmes, Martin and Joseph Takeda. 2019. "[The Prefabricated Website: Who needs a server anyway?](https://zenodo.org/record/3449197)" Text Encoding Initiative Conference, Graz, Austria. 19 September 2019.
 
 * Holmes, Martin and Joseph Takeda. 2017. "[Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project](https://dh2017.adho.org/abstracts/140/140.pdf)." Digital Humanities 2017 Conference, Montreal, Canada. 8 August 2017.
 
