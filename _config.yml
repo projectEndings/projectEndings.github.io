@@ -38,6 +38,7 @@ navbar-links:
   Resources:
     - Conference Papers: "papers"
     - Journal Articles: "articles"
+    - Software: "software"
     - Resources: "resources"
   News: "blog"
   Contact: "contact" 
