@@ -29,11 +29,13 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 * Holmes, Martin. 2017. "[Selecting Technologies for Long-Term Survival](https://github.com/projectEndings/Endings/raw/master/presentations/SHARP_2017/mdh_sharp_2017.pdf)." SHARP Conference 2017: Technologies of the Book, Victoria, BC, Canada. 10 June 2017.
 
+* Holmes, Martin and Joseph Takeda. 2017. "[Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project](https://dh2017.adho.org/abstracts/140/140.pdf)." Digital Humanities 2017 Conference, Montreal, Canada. 8 August 2017.
+
 * Holmes, Martin and Joseph Takeda. 2018. "[Why do I need four search engines?](https://conf2018.jadh.org/files/Proceedings_JADH2018.pdf#page=58)" Japanese Association for Digital Humanities Conference, Tokyo, Japan. 11 September 2018.
 
 * Holmes, Martin and Joseph Takeda. 2019. "[The Prefabricated Website: Who needs a server anyway?](https://zenodo.org/record/3449197)" Text Encoding Initiative Conference, Graz, Austria. 19 September 2019.
 
-* Holmes, Martin and Joseph Takeda. 2017. "[Beyond Validation: Using Programmed Diagnostics to Learn About, Monitor, and Successfully Complete Your DH Project](https://dh2017.adho.org/abstracts/140/140.pdf)." Digital Humanities 2017 Conference, Montreal, Canada. 8 August 2017.
+* Holmes, Martin and Joseph Takeda. 2020. "[Static Search: An Archivable and Sustainable Search Engine for the Digital Humanities](https://zenodo.org/record/3883150)" Digital Humanities Summer Institute Colloquium (#VirtualDHSI). 6 June 2020.
 
 * Huculak, J. Matthew. 2018. "[The Endings Project: Concluding, Archiving, and Preserving Digital Projects for Long-Term Usability](https://github.com/projectEndings/Endings/blob/master/presentations/AfterDigitalRevolution_2018/JaillantAfterDigitalRevolution.pptx?raw=true)." After the Digital Revolution Workshop 2, London, UK. 26 January 2018.
 
