@@ -35,11 +35,9 @@ Using the Endings staticSearch tool, developed by Martin Holmes and Joey Takeda,
 Endings has successfully demonstrated that multiple editions of a website can live side-by-side (just like books on a shelf). This allows long-term projects to publish substantial changes to their websites and produce "newer editions." Users can collate versions of websites in order to see the changes made. Although this functionality might seem beholden to an older logic of "print" production, much of the long-tertm content-creation labour on DH projects is lost when a website is updated without recognition of that labour. By producing "editions" of website, Endings-compliant sites can capture and honour that labour. Moreover, libraries can accept an edition of these websites and serve them without any database requirements. 
 
 ### Examples of Multiple Editions 
-1. [The Map of Early Modern London, edition 6.4.](https://mapoflondon.uvic.ca/) & 
-2. [The Map of Early Modern London, edition 6.3.](https://mapoflondon.uvic.ca/old/6.3/)
+1. [The Map of Early Modern London, edition 6.4.](https://mapoflondon.uvic.ca/) & [The Map of Early Modern London, edition 6.3.](https://mapoflondon.uvic.ca/old/6.3/)
 
-1. [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.1.](https://bcgenesis.uvic.ca/) & 
-2. [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.0](https://bcgenesis.uvic.ca/old/2.0/)
+2. [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.1.](https://bcgenesis.uvic.ca/) & 2. [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.0](https://bcgenesis.uvic.ca/old/2.0/)
 
 ## What's Next? 
 
