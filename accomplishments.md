@@ -4,7 +4,7 @@ title: Accomplishments & Outcomes
 subtitle: Enabling Sustainable Digital Humanities Projects
 ---
 
-As part of our Social Sciences and Research Council (SSHRC) grant, the Endings Project will be making available a toolset for Digital Humanities (DH) projects to use and implement. A website that conforms to Endings principles will be considered "Endings Compliant." 
+As part of our Social Sciences and Humanities Research Council of Canada (SSHRC) grant, the Endings Project will be making available a toolset for Digital Humanities (DH) projects to use and implement. A website that conforms to Endings principles will be considered "Endings Compliant." 
 
 Our team is hard at work developing documentation, software, and models of longevity for DH projects. We are using websites developed at the Humanities Computing and Media Centre (HCMC) at the University of Victoria as models for Endings compliance. 
 
@@ -41,7 +41,7 @@ Endings has successfully demonstrated that multiple editions of a website can li
 
 ## What's Next? 
 
-1. Mariage sour l'ancienne regime: Our developers will be writing stemmers for French in XSLT and JavaScript for the staticSearch engine. It will not be trivial work but the algorithms are already well-known through the Snowball project, so implementing them should be no different from implementing the English stemmers we've already written.
+1. Le mariage sous l’Ancien Régime: Our developers will be writing stemmers for French in XSLT and JavaScript for the staticSearch engine. It will not be trivial work but the algorithms are already well-known through the Snowball project, so implementing them should be no different from implementing the English stemmers we've already written.
 
  2. Early modern English and French pre-processing. Wildcard support in the search engine is a useful tool when searching digital editions of texts from the early modern period, because you can work around spelling variation and obsolete inflectional endings, but it would be even better if we could pre-process the EM forms into modern forms before stemming/indexing. Our programmers will be developing ways to make searches on our sites even better.
 
