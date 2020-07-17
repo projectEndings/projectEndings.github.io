@@ -8,6 +8,12 @@ As part of our Social Sciences and Research Council (SSHRC) grant, the Endings P
 
 Our team is hard at work developing documentation, software, and models of longevity for DH projects. We are using websites developed at the Humanities Computing and Media Centre (HCMC) at the University of Victoria as models for Endings compliance. 
 
+* Our Principles
+* Our Code
+* Our Software
+* Our Publications
+* Our Conference Papers
+
 # Summer 2020
 
 The Endings Project has reached a significant point in its work: It has developed a set of rigorous principles for digital longevity and have also applied
