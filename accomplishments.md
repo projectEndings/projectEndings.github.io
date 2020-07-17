@@ -21,7 +21,7 @@ them with complete success to a substantial number of projects. A foundational p
 
 ## "staticSearch Tool" Implementation 
 
-Using the Endings staticSearch tool, developed by Martin Holmes and Joey Takeda, The Endings Project has successfully implemented a dynamic to static site generator for XML-based websites. As part of the "Endings Toolkit," the staticSearch Tool supports wildcard searches as well as booleans and allows for a variety of search filters. 
+Using the Endings staticSearch tool, developed by Martin Holmes and Joey Takeda, The Endings Project has successfully implemented a "dynamic-to-static-site generator" for XML-based websites. As part of the "Endings Toolkit," the staticSearch Tool supports wildcard searches as well as booleans and allows for a variety of search filters. 
 
 * [The Map of Early Modern London, edition 6.4.](https://mapoflondon.uvic.ca/)
 * [The Colonial Despatches, edition 2.1.](https://bcgenesis.uvic.ca/search.html)
