@@ -21,15 +21,14 @@ them with complete success to a substantial number of projects. A foundational p
 
 ## "staticSearch Tool" Implementation 
 
-Using the Endings staticSearch tool, developed by Martin Holmes and Joey Takeda, The Endings Project has successfully implemented a dynamic to static site generator for XML-based websites. 
-As part of the "Endings Toolkit," the staticSearch Tool supports wildcard searches as well as booleans and allows for a variety of search filters. 
+Using the Endings staticSearch tool, developed by Martin Holmes and Joey Takeda, The Endings Project has successfully implemented a dynamic to static site generator for XML-based websites. As part of the "Endings Toolkit," the staticSearch Tool supports wildcard searches as well as booleans and allows for a variety of search filters. 
 
 * [The Map of Early Modern London, edition 6.4.](https://mapoflondon.uvic.ca/)
 * [The Colonial Despatches, edition 2.1.](https://bcgenesis.uvic.ca/search.html)
 * [Mapping Keats's Progress, edition 3.0.](https://johnkeats.uvic.ca/)
 
 ### Upcoming: 
-* MyNDIR [preview here](https://jenkins.hcmc.uvic.ca/job/MyNDIR/lastSuccessfulBuild/artifact/site/index.html)
+* MyNDIR [preview here](https://hcmc.uvic.ca/~myndir/site/)
 
 ## Multiple-Editions of Websites
 
@@ -38,7 +37,7 @@ Endings has successfully demonstrated that multiple editions of a website can li
 ### Examples of Multiple Editions 
 * [The Map of Early Modern London, edition 6.4.](https://mapoflondon.uvic.ca/) & [The Map of Early Modern London, edition 6.3.](https://mapoflondon.uvic.ca/old/6.3/)
 
-*   [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 3.](https://bcgenesis.uvic.ca/) & [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.](https://bcgenesis.uvic.ca/old/2.0/)
+*   [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.1.](https://bcgenesis.uvic.ca/) & [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.0](https://bcgenesis.uvic.ca/old/2.0/)
 
 ## What's Next? 
 
@@ -47,4 +46,4 @@ Endings has successfully demonstrated that multiple editions of a website can li
  2. Early modern English and French pre-processing. Wildcard support in the search engine is a useful tool when searching digital editions of texts from the early modern period, because you can work around spelling variation and obsolete inflectional endings, but it would be even better if we could pre-process the EM forms into modern forms before stemming/indexing. Our programmers will be developing ways to make searches on our sites even better.
 
 3. Digital Victorian Poetry Project. This site is scheduled to be released in the fall. It's entirely static and uses the staticSearch engine. You can see the development version here: 
-<https://jenkins.hcmc.uvic.ca/job/DVPP/lastSuccessfulBuild/artifact/products/index.html>
+<https://dvpp.uvic.ca>
