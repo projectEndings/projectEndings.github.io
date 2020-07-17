@@ -32,6 +32,7 @@ navbar-links:
 navbar-links:
   About: "about"
   Principles: "principles"
+  Accomplishments & Outcomes: "accomplishments"
   Code: "https://github.com/projectEndings/"
   Projects: "projects"
   People: "people"
