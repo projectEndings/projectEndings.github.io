@@ -37,7 +37,7 @@ Endings has successfully demonstrated that multiple editions of a website can li
 ### Examples of Multiple Editions 
 1. [The Map of Early Modern London, edition 6.4.](https://mapoflondon.uvic.ca/) & [The Map of Early Modern London, edition 6.3.](https://mapoflondon.uvic.ca/old/6.3/)
 
-2. [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.1.](https://bcgenesis.uvic.ca/) & 2. [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.0](https://bcgenesis.uvic.ca/old/2.0/)
+2. [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.1.](https://bcgenesis.uvic.ca/) & [The Colonial Despatches of Vancouver Island and British Columbia 1846-1871, edition 2.0](https://bcgenesis.uvic.ca/old/2.0/)
 
 ## What's Next? 
 
