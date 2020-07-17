@@ -17,26 +17,26 @@ Our team is hard at work developing documentation, software, and models of longe
 # Summer 2020
 
 The Endings Project has reached a significant point in its work: It has developed a set of rigorous principles for digital longevity and have also applied
-them with complete success to a substantial number of projects. A foundational principle of Endings is that static HTML sites outlast database-driven websites since the latter contain so many dependencies. One of the biggest challenges our technical support team faced was creating effective search tools when a database-driven website is converted to a static site. Martin Holmes and Joey Takeda were able to develop search pages that "are better, faster, more configurable and more elegant than what the old databases used to afford developers. The team has already taken down two XML database applications and shut down an entire Tomcat instance. 
+them with complete success to a substantial number of projects. A foundational principle of Endings is that static HTML sites outlast database-driven websites since the latter contain so many dependencies. One of the biggest challenges our technical support team faced was creating effective search tools when a database-driven website is converted to a static site. Martin Holmes and Joey Takeda were able to develop search pages that "are better, faster, more configurable and more elegant than what the old databases used to afford developers." The team has already taken down two XML database applications and shut down an entire Tomcat instance. 
 
-## staticSearch Tool Implementation 
+## "staticSearch Tool" Implementation 
 
 Using the Endings staticSearch tool, developed by Martin Holmes and Joey Takeda, The Endings Project has successfully implemented a dynamic to static site generator for XML-based websites. 
 As part of the "Endings Toolkit," the staticSearch Tool supports wildcard searches as well as booleans and allows for a variety of search filters. 
 
-* The Map of Early Modern London, edition 6.4.
-* The Colonial Despatches, edition 2.1. https://bcgenesis.uvic.ca/search.html
-* Mapping Keats's Progress, edition 3.0.
+* [The Map of Early Modern London, edition 6.4.](https://mapoflondon.uvic.ca/)
+* [The Colonial Despatches, edition 2.1.](https://bcgenesis.uvic.ca/search.html)
+* [Mapping Keats's Progress, edition 3.0.](https://johnkeats.uvic.ca/)
 
 ### Upcoming: 
-* MyNDIR (preview here) https://jenkins.hcmc.uvic.ca/job/MyNDIR/lastSuccessfulBuild/artifact/site/index.html
+* MyNDIR [preview here](https://jenkins.hcmc.uvic.ca/job/MyNDIR/lastSuccessfulBuild/artifact/site/index.html)
 
 ## Multiple-Editions of Websites
 
 Endings has successfully demonstrated that multiple editions of a website can live side-by-side--just like books on a shelf. This allows long-term projects to publish substantial changes to their websites and produce "newer editions." Users can collate versions of websites in order to see the changes made. Although this functionality might seem beholden to an older logic of "print" production, much of the long-tertm content-creation labour on DH projects is lost when a website is updated without recognition of that labour. By producing "editions" of website, Endings-compliant sites can capture and honour that labour. Moreover, Libraries can accept an edition of these website and serve them without any database requirements. 
 
 ### Examples of Multiple Editions 
-* The Map of Early Modern London, edition 6.4. MoEML 6.3 <https://mapoflondon.uvic.ca/old/6.3/>
+* [The Map of Early Modern London, edition 6.4.](https://mapoflondon.uvic.ca/) & [MoEML 6.3](https://mapoflondon.uvic.ca/old/6.3/)
 
 * Despatches 2.0 is here: <https://bcgenesis.uvic.ca/old/2.0/>
 
