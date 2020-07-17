@@ -45,5 +45,4 @@ Endings has successfully demonstrated that multiple editions of a website can li
 
  2. Early modern English and French pre-processing. Wildcard support in the search engine is a useful tool when searching digital editions of texts from the early modern period, because you can work around spelling variation and obsolete inflectional endings, but it would be even better if we could pre-process the EM forms into modern forms before stemming/indexing. Our programmers will be developing ways to make searches on our sites even better.
 
-3. Digital Victorian Poetry Project. This site is scheduled to be released in the fall. It's entirely static and uses the staticSearch engine. You can see the development version here: 
-<https://dvpp.uvic.ca>
+3. Digital Victorian Poetry Project. This site is scheduled to be released in the fall. It's entirely static and uses the staticSearch engine. You can see the development version here: (https://dvpp.uvic.ca)
