@@ -13,6 +13,8 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 <!-- Coming in April from Claire: "Humanities in the Digital Age: A Quiet Revolution," to be delivered in the Master Minds series in April, will have a lot of Endings content. -->
 
+* Carlin, Claire. 2020). "Ça dépend : Le défi de la conservation des projets numériques." Zenodo. http://doi.org/10.5281/zenodo.3836506
+
 * Carlin, Claire. 2017. "[Mistakes Were Made: A TEI Project after Sixteen Years](https://hcmc.uvic.ca/tei2017/abstracts/t_118_carlin_mistakesweremade.html)." Conference of the Text Encoding Initiative, Victoria, BC, Canada. 14 November 2017.
 
 * Comeau, Emily. 2018. "[Endings: Concluding, Archiving and Preserving Digital Projects for Long-Term Usability](https://github.com/projectEndings/Endings/blob/master/presentations/DHCS_2018/DHCS-2018.pdf)." The Chicago Colloquium on Digital Humanities and Computer Science. 10 November 2018.
