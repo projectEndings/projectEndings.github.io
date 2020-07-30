@@ -19,6 +19,8 @@ subtitle: Building Sustainable Digital Humanities Projects
 
 * Comeau, Emily. 2018. "[Endings: Concluding, Archiving and Preserving Digital Projects for Long-Term Usability](https://github.com/projectEndings/Endings/blob/master/presentations/DHCS_2018/DHCS-2018.pdf)." The Chicago Colloquium on Digital Humanities and Computer Science. 10 November 2018.
 
+* Czaykowska-Higgins, Ewa, M. Holmes & S. Kell. 2019. Planning to stop before you start: Ending a digital dictionary project. 6th International Conference on Language Documentation and Conservation. 28 Feb-3 Mar 2019. University of Hawaii, Honolulu, Hawaii. [https://scholarspace.manoa.hawaii.edu/handle/10125/44774?mode=full]
+
 * Czaykowska-Higgins, Ewa, and Sarah M. Kell  "[Why do print at all? Constructing a 'dictionary' for the future](https://github.com/projectEndings/Endings/blob/master/presentations/SHARP_2017/CzaykowskaKellSHARP2017AbstractFinal.pdf)". SHARP Conference 2017: Technologies of the Book, Victoria, BC, Canada. 10 June 2017.
 
 * Czaykowska-Higgins, Ewa and Sarah M. Kell. 2017. "[Using TEI for Language Documentation Projects: The Nxaʔamxčín Database and Dictionary](https://hcmc.uvic.ca/tei2017/abstracts/t_117_czaykowska_kell_languagedocumentation.html)." Conference of the Text Encoding Initiative, University of Victoria, Victoria, BC. 11 November 2017.
